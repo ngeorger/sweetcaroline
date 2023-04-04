@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Queques &#8211; SweetCaroline</title>
+	<atom:link href="/product-category/dulces/queques/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Fri, 26 Aug 2022 23:01:41 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Queques &#8211; SweetCaroline</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mini Queque</title>
+		<link>/product/mini-queque/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 06:40:19 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4687</guid>
+
+					<description><![CDATA[Esponjoso bizcocho de corteza dorada sabor a limón con un toque de romero cubierto con royal icing .]]></description>
+										<content:encoded><![CDATA[<p>Esponjoso bizcocho de corteza dorada sabor a limón con un toque de romero cubierto con royal icing .</p>
+<p>Los queques son tradicionales de España, originalmente eran panes que se horneaban dos veces para darle la cortesa dorada, de esta manera tenían más duración, con el tiempo se endulzaron y se le agregaron sabores y dulzor.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Queque limón/Romero</title>
+		<link>/product/queque-de-limon/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Thu, 27 Jan 2022 03:06:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4010</guid>
+
+					<description><![CDATA[Esponjoso bizcocho de corteza dorada sabor a limón con un toque de romero cubierto con glasa de azúcar y clara. Los queques son tradicionales de España, originalmente eran panes que se horneaban dos veces para darle la cortesa dorada, de esta manera tenían más duración, con el tiempo se endulzaron y se le agregaron sabores&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Esponjoso bizcocho de corteza dorada sabor a limón con un toque de romero cubierto con glasa de azúcar y clara.</p>
+<p>Los queques son tradicionales de España, originalmente eran panes que se horneaban dos veces para darle la cortesa dorada, de esta manera tenían más duración, con el tiempo se endulzaron y se le agregaron sabores y dulzor.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

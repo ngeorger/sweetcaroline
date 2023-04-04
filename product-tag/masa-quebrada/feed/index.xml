@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Masa quebrada &#8211; SweetCaroline</title>
+	<atom:link href="/product-tag/masa-quebrada/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Sat, 27 Aug 2022 00:24:50 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Masa quebrada &#8211; SweetCaroline</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tarta de arándanos</title>
+		<link>/product/kuchen-de-arandanos/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 22:04:56 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4128</guid>
+
+					<description><![CDATA[Tarta de masa quebrada rellena con crema pastelera artesanal y arándanos almibarados, cubierta con diseño en cuadrículas o trenzado]]></description>
+										<content:encoded><![CDATA[<p>Tarta de masa quebrada rellena con crema pastelera artesanal y arándanos almibarados, cubierta con diseño en cuadrículas o trenzado</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tarta de calabaza</title>
+		<link>/product/tarta-de-calabaza/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 21:36:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4125</guid>
+
+					<description><![CDATA[Masa quebrada rellena con crema de calabaza dulce y coco espolvoreado.]]></description>
+										<content:encoded><![CDATA[<p>Masa quebrada rellena con crema de calabaza dulce y coco espolvoreado.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

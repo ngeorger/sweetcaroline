@@ -1,0 +1,21 @@
+<wpml-config> 
+	<admin-texts>
+		<key name="theme_mods_cakecious">
+			<key name="entry_list_header_meta" />
+			<key name="entry_list_read_more_text" />
+			<key name="entry_list_footer_meta" />
+			<key name="blog_related_posts_heading_text" />
+			<key name="header_html_2_content" />
+			<key name="header_html_3_content" />
+			<key name="header_button_1_text" />
+			<key name="header_button_2_text" />
+			<key name="header_contact_email_text" />
+			<key name="header_contact_phone_text" />
+			<key name="header_contact_address_text" />
+			<key name="header_contact_time_text" />
+			<key name="footer_html_1_content" />
+			<key name="woocommerce_off_canvas_filters_button_text" />
+			<key name="woocommerce_quick_view_button_text" />
+		</key>
+	</admin-texts>
+</wpml-config>

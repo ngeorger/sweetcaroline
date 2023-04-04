@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Salados &#8211; SweetCaroline</title>
+	<atom:link href="/product-category/salados/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Mon, 17 Oct 2022 01:47:31 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Salados &#8211; SweetCaroline</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Quiche de Espinacas</title>
+		<link>/product/quiche-de-espinacas/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2022 22:15:10 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4234</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Quiche Lorraine</title>
+		<link>/product/quiche-lorraine/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2022 22:07:52 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4232</guid>
+
+					<description><![CDATA[Tarta salada de masa quebrada rellena con un batido de huevos, crema de leche, queso y tocino.]]></description>
+										<content:encoded><![CDATA[<p>Tarta salada de masa quebrada rellena con un batido de huevos, crema de leche, queso y tocino.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mini Hamburgesa Vegana</title>
+		<link>/product/mini-vegana/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:09:27 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4138</guid>
+
+					<description><![CDATA[Mini Hamburguesa de lentejas, pimentón asado, queso vegano y lechuga en pan de hamburguesa artesanal, saborizado con espinacas,]]></description>
+										<content:encoded><![CDATA[<p>Mini Hamburguesa de lentejas, pimentón asado, queso vegano y lechuga en pan de hamburguesa artesanal, saborizado con espinacas,</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tapadito de cocktail</title>
+		<link>/product/tapadito-de-pollo/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:04:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4136</guid>
+
+					<description><![CDATA[Pan de cocktail relleno con pollo grillado, pimentón asado, lechuga y salsa peruana. &#160; Pedido mínimo 12 unidades.]]></description>
+										<content:encoded><![CDATA[<p>Pan de cocktail relleno con pollo grillado, pimentón asado, lechuga y salsa peruana.</p>
+<p>&nbsp;</p>
+<p>Pedido mínimo 12 unidades.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Queso Aceituna</title>
+		<link>/product/queso-aceituna/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2021 00:12:58 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=3805</guid>
+
+					<description><![CDATA[Empanada Queso Aceituna]]></description>
+										<content:encoded><![CDATA[<p>Sabrosa masa horneada rellena con queso mantecoso y aceitunas picadas.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Queso Camarón</title>
+		<link>/product/queso-camaron/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2021 00:11:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=3804</guid>
+
+					<description><![CDATA[Empanada]]></description>
+										<content:encoded><![CDATA[<p>Sabrosa masa horneada rellena con queso mantecoso y camarones salteados en mantequilla.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Queso Champiñon</title>
+		<link>/product/empanada-de-queso-champinon/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 16:52:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=3795</guid>
+
+					<description><![CDATA[Empanada Queso Champiñón]]></description>
+										<content:encoded><![CDATA[<p>Sabrosa masa horneada rellena con queso mantecoso y champiñones salteados en mantequilla.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mini Hamburguesa Vacuno</title>
+		<link>/product/mini-hamburguesa/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Sun, 22 Aug 2021 23:31:43 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=3536</guid>
+
+					<description><![CDATA[Pan y hamburguesa artesanal de producción propia, carne de vacuno premium, base de, lechuga, tomate y lámina de queso. *Para personalizar los agregados realizar pedido aparte. Sólo para pedidos sobre 12 unidades]]></description>
+										<content:encoded><![CDATA[<p>Pan y hamburguesa artesanal de producción propia, carne de vacuno premium, base de, lechuga, tomate y lámina de queso.</p>
+<p>*Para personalizar los agregados realizar pedido aparte.</p>
+<p>Sólo para pedidos sobre 12 unidades</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pino Chilena</title>
+		<link>/product/empanada-de-pino-chilena/</link>
+		
+		<dc:creator><![CDATA[ngeorger]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2020 06:56:34 +0000</pubDate>
+				<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/?product=import-placeholder-for-woo-beanie</guid>
+
+					<description><![CDATA[Empanada tradicional, de pino horneada, carne picada.]]></description>
+										<content:encoded><![CDATA[<p>Sabrosa masa horneada rellena con pino (mezcla de carne picada y cebolla), aceituna, pasas y huevo duro, sazonada con aliños tradicionales chilenos.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

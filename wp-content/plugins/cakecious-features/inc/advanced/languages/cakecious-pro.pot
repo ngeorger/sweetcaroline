@@ -1,0 +1,2307 @@
+# Copyright (C) 2020 Cakecious Pro
+# This file is distributed under the same license as the Cakecious Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cakecious Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: cakecious-pro.php:51
+msgid "Cakecious Pro plugin requires Cakecious theme to be installed and activated. The plugin is currently NOT RUNNING."
+msgstr ""
+
+#: cakecious-pro.php:59
+msgid "Install and Activate Now"
+msgstr ""
+
+#: cakecious-pro.php:56
+msgid "Activate Now"
+msgstr ""
+
+#: inc/class-cakecious-helper-css-spinner.php:22
+msgid "Circle clip"
+msgstr ""
+
+#: inc/class-cakecious-helper-css-spinner.php:68
+msgid "Grid beat"
+msgstr ""
+
+#: inc/class-cakecious-helper-css-spinner.php:161
+msgid "Circle spin"
+msgstr ""
+
+#: inc/class-cakecious-helper-css-spinner.php:254
+msgid "Line scale"
+msgstr ""
+
+#: inc/class-cakecious-helper-css-spinner.php:303
+msgid "Line spin"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:147
+msgid "Beta version update is enabled. You will receive notifications when we release a new beta version."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:162
+msgid "Beta version update is disabled. You will only receive notifications for a new public release version."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:251
+msgid "License is activated."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:211
+msgid "Your license key has expired on %s."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:218
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:222
+msgid "Invalid license."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:227
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:231
+msgid "This appears to be an invalid license key."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:235
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:239, inc/class-cakecious-pro-admin.php:202, inc/class-cakecious-pro-admin.php:304
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:317
+msgid "License is deactivated."
+msgstr ""
+
+#. translators: %s: module name
+#: inc/class-cakecious-pro-admin.php:374
+msgid "\"%s\" is activated."
+msgstr ""
+
+#. translators: %s: module name
+#: inc/class-cakecious-pro-admin.php:419
+msgid "\"%s\" is deactivated."
+msgstr ""
+
+#. translators: %s: module name
+#: inc/class-cakecious-pro-admin.php:453
+msgid "All modules are activated."
+msgstr ""
+
+#. translators: %s: module name
+#: inc/class-cakecious-pro-admin.php:470
+msgid "All modules are deactivated."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:489
+msgid "Manage Modules"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:655
+msgid "Unavailable on this version"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:646, inc/class-cakecious-pro-admin.php:566
+msgid "Activate"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:588, inc/class-cakecious-pro-admin.php:596
+msgid "Manage"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:603, inc/class-cakecious-pro-admin.php:611, inc/class-cakecious-pro-admin.php:626, inc/class-cakecious-pro-admin.php:549
+msgid "Customize"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:634, inc/class-cakecious-pro-admin.php:555
+msgid "Deactivate"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:575
+msgid "WooCommerce plugin is required"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:535
+msgid "License activation is required"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:514
+msgid "Settings"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:673
+msgid "Activate All"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:675
+msgid "Deactivate All"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:744
+msgid "Refresh"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:758
+msgid "Active"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:763
+msgid "Expired"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:765
+msgid "Your license has expired. To get new updates and support from our team, please renew your license."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:769, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:223
+msgid "Disabled"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:771
+msgid "Your license has been cancelled (most likely due to a refund request). If you feel this is wrong, please contact us."
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:775
+msgid "Inactive"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:777
+msgid "License activation is required to unlock the White Label module and turn on the Auto Update features."
+msgstr ""
+
+#. translators: %s: license status.
+#: inc/class-cakecious-pro-admin.php:784
+msgid "License Status: %s"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:805
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:812
+msgid "Renew License"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:824
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:828
+msgid "Activate License"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:840
+msgid "Enable"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:838
+msgid "Disable"
+msgstr ""
+
+#: inc/class-cakecious-pro-admin.php:842
+msgid "Enable update to BETA versions"
+msgstr ""
+
+#: inc/class-cakecious-pro.php:283
+msgid "Cakecious Pro plugin requires at least PHP 5.4.0. The plugin is currently NOT RUNNING."
+msgstr ""
+
+#. translators: %1$s: current Cakecious Pro version, %2$s: required Cakecious theme version.
+#: inc/class-cakecious-pro.php:298
+msgid "The installed Cakecious Pro %1$s requires at least Cakecious (theme) %2$s, please update your theme first. The plugin is currently NOT RUNNING."
+msgstr ""
+
+#: template-parts/blog-related-posts.php:42
+msgctxt "terms list separator"
+msgid ", "
+msgstr ""
+
+#: template-parts/entry-list.php:79
+msgid "Read more"
+msgstr ""
+
+#: template-parts/header-element-shopping-cart-off-canvas-popup.php:38, template-parts/header-element-shopping-cart-off-canvas.php:62
+msgid "Shopping Cart"
+msgstr ""
+
+#: template-parts/header-element-vertical-menu.php:16, inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:82
+msgid "Vertical Header Menu"
+msgstr ""
+
+#: template-parts/header-element-vertical-toggle.php:23
+msgid "Vertical Header"
+msgstr ""
+
+#. translators: %s: number of cart items.
+#: template-parts/woocommerce-mobile-sticky-checkout-button.php:18
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:80
+msgid "Featured?"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:92
+msgid "Mark as Featured"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:93
+msgid "Unmark as Featured"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:280, inc/modules/blog-featured-posts/customizer/options/_sections.php:22
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:294
+msgid "%s post unmarked as Featured."
+msgid_plural "%s posts unmarked as Featured."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:290
+msgid "%s post marked as Featured."
+msgid_plural "%s posts marked as Featured."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: plugin name
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:356
+msgid "Featured Post (%s)"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/class-cakecious-pro-module-blog-featured-posts-admin.php:443
+msgid "Mark this post as \"Featured Post\""
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:72
+msgid "Custom Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:86, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:344
+msgid "Attached Hook"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:87
+msgid "Display on"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:88, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:824
+msgid "Visible to"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:89
+msgid "Responsive Visibility"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:90
+msgid "Shortcode"
+msgstr ""
+
+#. translators: %s: The hook action tag entered by user.
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:123
+msgid "Custom Hook: %s"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:155
+msgid "Show on %s"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:155
+msgid "Hide on %s"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:187
+msgid "Block Settings"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:339
+msgid "List of custom blocks that were inserted to this page via template hooks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:343, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:179
+msgid "Title"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:345
+msgid "Priority"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:351
+msgid "No block inserted to this page yet."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:366
+msgid "NOTE: Blocks that were added via shortcode are not included in the above list."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:368
+msgid "Add or Manage Custom Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:473
+msgid "No valid post type specified"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:481, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:514, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:701, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:705
+msgid "All"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:506
+msgid "No valid taxonomy specified"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:547
+msgid "Custom Block is a reusable and portable content that can be inserted into anywhere on your website via template hooks or shortcode."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:547
+msgid "Learn More"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:587
+msgid "Location"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:588
+msgid "Display Rules"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:589
+msgid "Markup & Styles"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:596
+msgid "Insert into template hook"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:607
+msgid "-- None --"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:627
+msgid "You can insert the Custom Block into any template hook from other plugins. For example, setting the hook name to \"woocommerce_before_shop_loop\" will insert the Custom Block above the WooCommerce's products catalog grid."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:633
+msgid "Priority:"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:645
+msgid "Smaller would be displayed first."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:653
+msgid "Insert via shortcode"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:658
+msgid "Copy and paste this shortcode into any content, widget, or text editor that supports shortcode."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:687, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:809
+msgid "-- None selected --"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:731
+msgid "Show on"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:754, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:785
+msgid "Add Rule"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:762
+msgid "Hide on"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:844
+msgid "Add Role"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:852
+msgid "Responsive Display"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:859, inc/modules/header-alt-colors/customizer/options/_sections.php:24, inc/modules/header-sticky/customizer/options/_sections.php:24, inc/modules/header-transparent/customizer/options/_sections.php:24
+msgid "Desktop"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:860
+msgid "Tablet"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:861
+msgid "Mobile"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:883
+msgid "If you insert this Custom Block into Scripts template hooks, please ignore these options."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:887
+msgid "Wrapper tag"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:909
+msgid "Wrapper ID"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:923
+msgid "Wrapper class"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:939
+msgid "Content container"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:948
+msgid "Enabled"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:951
+msgid "If you are using Page Builder to build the content, this option is most likely not needed."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:956
+msgid "Container width"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks-admin.php:968
+msgid "px"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:83
+msgctxt "Post type general name"
+msgid "Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:84
+msgctxt "Post type singular name"
+msgid "Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:85
+msgctxt "Admin Menu text"
+msgid "Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:86
+msgctxt "Add New on Toolbar"
+msgid "Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:87
+msgid "Add New"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:88
+msgid "Add New Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:89
+msgid "New Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:90
+msgid "Edit Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:91
+msgid "View Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:92
+msgid "All Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:93
+msgid "Search Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:94
+msgid "Parent Blocks:"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:95
+msgid "No Block found."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:96
+msgid "No Block found in Trash."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:97
+msgctxt "Overrides the \"Featured Image\" phrase for this post type. Added in 4.3"
+msgid "Block Cover Image"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:98
+msgctxt "Overrides the \"Set featured image\" phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:99
+msgctxt "Overrides the \"Remove featured image\" phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:100
+msgctxt "Overrides the \"Use as featured image\" phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:101
+msgctxt "The post type archive label used in nav menus. Default \"Post Archives\". Added in 4.4"
+msgid "Block archives"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:102
+msgctxt "Overrides the \"Insert into post\"/\"Insert into page\" phrase (used when inserting media into a post). Added in 4.4"
+msgid "Insert into Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:103
+msgctxt "Overrides the \"Uploaded to this post\"/\"Uploaded to this page\" phrase (used when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Block"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:104
+msgctxt "Screen reader text for the filter links heading on the post type listing screen. Default \"Filter posts list\"/\"Filter pages list\". Added in 4.4"
+msgid "Filter Block list"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:105
+msgctxt "Screen reader text for the pagination heading on the post type listing screen. Default \"Posts list navigation\"/\"Pages list navigation\". Added in 4.4"
+msgid "Blocks list navigation"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:106
+msgctxt "Screen reader text for the items list heading on the post type listing screen. Default \"Posts list\"/\"Pages list\". Added in 4.4"
+msgid "Blocks list"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:233
+msgid "Cakecious Custom Blocks"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:249
+msgid "No Custom Block attached on this page."
+msgstr ""
+
+#. translators: %1$s: custom hook name.
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:809
+msgid "Hook: %1$s"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:926
+msgid "Before Page Canvas"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:927
+msgid "After Page Canvas"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:930
+msgid "Replace Header (Desktop & Mobile Header)"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:931
+msgid "Before Header"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:932
+msgid "After Header"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:935
+msgid "Before Main Content & Sidebar"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:936
+msgid "After Main Content & Sidebar"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:937
+msgid "Before Main Content"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:938
+msgid "After Main Content"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:939
+msgid "Before Sidebar"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:940
+msgid "After Sidebar"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:943
+msgid "Before Post Entry Header"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:944
+msgid "Post Entry Header"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:945
+msgid "After Post Entry Header"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:946
+msgid "Before Post Entry Content"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:947
+msgid "After Post Entry Content"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:948
+msgid "Before Post Entry Footer"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:949
+msgid "Post Entry Footer"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:950
+msgid "After Post Entry Footer"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:953
+msgid "Before Comments Section"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:954
+msgid "Before Comments List"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:955
+msgid "After Comments List"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:956
+msgid "After Comments Section"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:959
+msgid "Replace Footer (Widgets & Bottom Bar)"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:960
+msgid "Before Footer"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:961
+msgid "After Footer"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:964
+msgid "Inside <head> tag"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:965
+msgid "After opening <body> tag"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:966
+msgid "Before closing </body> tag"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:969
+msgid "Enter the hook name: ..."
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:992
+msgid "Entire Website"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:993
+msgid "All Singulars (any post type)"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:994
+msgid "All Archives (any post type)"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:995
+msgid "Search Results"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:996
+msgid "Not Found (404)"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:997
+msgid "Date Archive"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:998
+msgid "Author Archive"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:999
+msgid "Front Page"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1002
+msgid "Static Pages (singular)"
+msgstr ""
+
+#. translators: %s: post type plural label.
+#. translators: %s: taxonomy singular label.
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1023, inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1028
+msgid "%s Archive"
+msgstr ""
+
+#. translators: %s: post type plural label.
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1033
+msgid "%s (singular)"
+msgstr ""
+
+#. translators: %1$s: post type plural label, %1$s: taxonomy singular label.
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1038
+msgid "%1$s in %2$s"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1065
+msgid "All Users"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1066
+msgid "Logged out Users"
+msgstr ""
+
+#: inc/modules/custom-blocks/class-cakecious-pro-module-custom-blocks.php:1067
+msgid "Logged in Users"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:78, inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:79
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:160
+msgid "You can add as many custom fonts as you want. The uploaded fonts would be available on Customizer and Elementor Page Builder options for styling your typography."
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:161
+msgid "All the added fonts would be automatically enqueued on frontend, so please only add the fonts that you will use."
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:162
+msgid "Each font should have name and at least one variant, otherwise the font would not be saved."
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:163
+msgid "Please upload the font files in proper web font formats. You can use online service like Transfonter to convert your font into web font formats."
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:164
+msgid "The most essential format is .woff (and .woff2), because it has the best performance and supported by major browsers."
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:176
+msgid "Add Custom Font"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:197
+msgid "Regular"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:198
+msgid "Thin"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:199
+msgid "Extra Light"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:200
+msgid "Light"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:201, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:246
+msgid "Medium"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:202
+msgid "Semi Bold"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:203
+msgid "Bold"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:204
+msgid "Extra Bold"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:205
+msgid "Black"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:215
+msgid "Font name (e.g. Proxima Nova)"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:218
+msgid "The name of the font as it appears in the typography options."
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:222
+msgid "Add variants and upload font files"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:233
+msgid "Italic"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-admin.php:245
+msgid "Select .%s file"
+msgstr ""
+
+#: inc/modules/custom-fonts/class-cakecious-pro-module-custom-fonts-elementor.php:59
+msgid "%s - Custom"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:73, inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:74
+msgid "Custom Icons"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:162
+msgid "Upload custom SVG icon files to override theme's default icons."
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:179
+msgid "Select .svg file"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:197
+msgid "Add new social icons and specifiy its SVG icon. The added social icons would be listed on Social links options on Customizer."
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:198
+msgid "* All fields are required, otherwise the icons will not be saved."
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:210
+msgid "Add Custom Icon"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:235
+msgid "Slug (unique)"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:242
+msgid "e.g. \"custom-social\""
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:250
+msgid "Label"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:257
+msgid "e.g. \"Custom Social\""
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:265
+msgid "SVG icon file"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:275
+msgid "Select .SVG file"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:299
+msgid "Override Default Icons"
+msgstr ""
+
+#: inc/modules/custom-icons/class-cakecious-pro-module-custom-icons-admin.php:300
+msgid "Add Social Icons"
+msgstr ""
+
+#: inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:135
+msgid "Alt colors desktop header"
+msgstr ""
+
+#: inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:143, inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:162, inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:228, inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:247, inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:154, inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:173, inc/modules/preloader-screen/class-cakecious-pro-module-preloader-screen.php:221, inc/modules/sidebar-sticky/class-cakecious-pro-module-sidebar-sticky.php:143, inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:82, inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:102
+msgid "(Customizer)"
+msgstr ""
+
+#: inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:144, inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:163, inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:229, inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:248, inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:155, inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:174, inc/modules/preloader-screen/class-cakecious-pro-module-preloader-screen.php:222
+msgid "No"
+msgstr ""
+
+#: inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:145, inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:164, inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:230, inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:249, inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:156, inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:175, inc/modules/preloader-screen/class-cakecious-pro-module-preloader-screen.php:223
+msgid "Yes"
+msgstr ""
+
+#: inc/modules/header-alt-colors/class-cakecious-pro-module-header-alt-colors.php:154
+msgid "Alt colors mobile header"
+msgstr ""
+
+#. translators: %d: number of Header Menu.
+#. translators: %d: number of Header Menu.
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:58, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:60
+msgid "Header Menu %d"
+msgstr ""
+
+#. translators: %s: instance number.
+#. translators: %s: instance number.
+#. translators: %s: Menu element number.
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:74, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:76, inc/modules/header-elements-plus/customizer/options/header--menu.php:25
+msgid "Menu %s"
+msgstr ""
+
+#. translators: %s: instance number.
+#. translators: %s: instance number.
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:78, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:80, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:108, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:109, inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:185, inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:186
+msgid "HTML %s"
+msgstr ""
+
+#. translators: %s: instance number.
+#. translators: %s: instance number.
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:82, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:84, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:110, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:111, inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:187, inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:188
+msgid "Button %s"
+msgstr ""
+
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:85, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:112, inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:189
+msgid "Contact"
+msgstr ""
+
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:92, inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:119
+msgid "Cart Off Canvas"
+msgstr ""
+
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:224
+msgctxt "icon label"
+msgid "Email"
+msgstr ""
+
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:225
+msgctxt "icon label"
+msgid "Address"
+msgstr ""
+
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:226
+msgctxt "icon label"
+msgid "Phone"
+msgstr ""
+
+#: inc/modules/header-elements-plus/class-cakecious-pro-module-header-elements-plus.php:227
+msgctxt "icon label"
+msgid "Time"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:123
+msgid "Mega Menu Settings"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:166
+msgid "Settings saved!"
+msgstr ""
+
+#. translators: %s: theme name.
+#. translators: %s: theme name.
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:220, inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:444
+msgid "%s Mega Menu - Container Settings"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:225
+msgid "Please note, Mega Menu only works in desktop header (top bar, main bar, bottom bar)."
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:230
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:236
+msgid "Enable Mega Menu mode on this menu item (all direct child menu items will be columns)"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:239
+msgid "You need to add at least 1 child menu item under this menu item."
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:246
+msgid "Mega Menu width"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:253
+msgid "Same as container width"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:254
+msgid "Full width"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:255, inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:263
+msgid "Custom width"
+msgstr ""
+
+#. translators: %s: theme name.
+#. translators: %s: theme name.
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:319, inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:453
+msgid "%s Mega Menu - Column Settings"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:324
+msgid "Please make sure you have enabled Mega Menu mode on parent menu item. Otherwise, these settings won't take effects."
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:329
+msgid "Column width"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:344
+msgid "Hide label"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:350
+msgid "Hide column heading (navigation label)"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:357
+msgid "Disable label link"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:363
+msgid "Disable link on column heading (navigation label)"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:370
+msgid "Disable padding"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:376
+msgid "Disable this column padding (might be useful when you use Gutenberg or page builders to build the custom content)"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:383
+msgid "Custom content"
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:395
+msgid "You can insert plain text, HTML tags, or shortcodes."
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:397
+msgid "TIPS: You can use our Custom Blocks module along with Gutenberg or other page builders to build more advanced and dynamic content. Create a new Custom Block, build the content, and then paste the Custom Block shortcode here."
+msgstr ""
+
+#: inc/modules/header-mega-menu/class-cakecious-pro-module-header-mega-menu-admin.php:414
+msgid "Mega Menu Settings are only available for 1st and 2nd level menu items."
+msgstr ""
+
+#: inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:220
+msgid "Sticky desktop header"
+msgstr ""
+
+#: inc/modules/header-sticky/class-cakecious-pro-module-header-sticky.php:239
+msgid "Sticky mobile header"
+msgstr ""
+
+#: inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:146
+msgid "Transparent desktop header"
+msgstr ""
+
+#: inc/modules/header-transparent/class-cakecious-pro-module-header-transparent.php:165
+msgid "Transparent mobile header"
+msgstr ""
+
+#: inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:143
+msgid "Vertical - Top"
+msgstr ""
+
+#: inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:144
+msgid "Vertical - Middle"
+msgstr ""
+
+#: inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:145
+msgid "Vertical - Bottom"
+msgstr ""
+
+#. translators: %s: Menu element number.
+#: inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:148, inc/modules/header-vertical/customizer/options/header--menu.php:18
+msgid "Vertical Menu"
+msgstr ""
+
+#: inc/modules/header-vertical/class-cakecious-pro-module-header-vertical.php:149
+msgid "Vertical Toggle"
+msgstr ""
+
+#: inc/modules/preloader-screen/class-cakecious-pro-module-preloader-screen.php:213, inc/modules/preloader-screen/customizer/options/_sections.php:13
+msgid "Preloader Screen"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/class-cakecious-pro-module-sidebar-sticky.php:135, inc/modules/sidebar-sticky/customizer/options/_page-settings.php:41
+msgid "Sticky sidebar"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/class-cakecious-pro-module-sidebar-sticky.php:144, inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:83
+msgid "&#x2718; No"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/class-cakecious-pro-module-sidebar-sticky.php:145, inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:84
+msgid "&#x2714; Yes"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:112, inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:113
+msgid "White Label"
+msgstr ""
+
+#. translators: %s: module name
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:419
+msgid "White Label mode is now activated. The White Label settings page and all default branding panels are now hidden. You can show the White Label settings page again by reactivating Cakecious Pro plugin."
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:462
+msgid "White Label mode allows you to remove Cakecious's default branding details and replace them with your own branding details. It is mostly used if you are building websites for clients."
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:471
+msgid "Enable White Label mode"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:474
+msgid "Agency / Author"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:477
+msgid "Agency / author name"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:491
+msgid "Agency / author URL"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:507
+msgid "Cakecious (Theme)"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:510
+msgid "Theme name"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:524
+msgid "Theme description"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:539
+msgid "Theme screenshot URL"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:555
+msgid "Cakecious Pro"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:558
+msgid "Plugin name"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:572
+msgid "Plugin description"
+msgstr ""
+
+#: inc/modules/white-label/class-cakecious-pro-module-white-label-admin.php:590
+msgid "Once enabled, this page would be hidden. If you want to change settings on this page again later, you MUST reactivate the Cakecious Pro plugin (deactivate and activate again)."
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:66
+msgid "Show breadcrumb"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:67
+msgid "Show gallery"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:68
+msgid "Show tabs"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:69
+msgid "Show up-sells"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:70
+msgid "Show related products"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:94, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--product-single.php:27
+msgid "Gallery layout"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:106, inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:83, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--product-single.php:30
+msgid "Bottom"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:110, inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:114, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:490, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:492, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:227, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:231, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:50, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:51, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:69, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:71, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--product-single.php:34, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--product-single.php:38, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:81, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:82, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:235, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:237
+msgid "Right"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:110, inc/modules/woocommerce-layout-plus/class-cakecious-pro-module-woocommerce-layout-plus-admin.php:114, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:490, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:492, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:227, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:231, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:50, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:51, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:69, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:71, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--product-single.php:34, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--product-single.php:38, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:81, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:82, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:235, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:237
+msgid "Left"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/class-cakecious-pro-module-woocommerce-off-canvas-filters.php:127, inc/modules/woocommerce-off-canvas-filters/customizer/options/_sections.php:22
+msgid "Off Canvas Filters"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/class-cakecious-pro-module-woocommerce-off-canvas-filters.php:129
+msgid "Sidebar used when Off Canvas Filters mode is enabled (configurable at Customize > WooCommerce > Off Canvas Filters). This should contain WooCommerce filter widgets."
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/class-cakecious-pro-module-woocommerce-off-canvas-filters.php:145
+msgctxt "icon label"
+msgid "Filter"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/defaults.php:41
+msgid "Posted in {{categories}} &nbsp;&bull;&nbsp; {{comments}}"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/defaults.php:29, inc/modules/blog-related-posts/customizer/options/_sections.php:22
+msgid "Related Posts"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/defaults.php:67
+msgid "Button Text"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:27
+msgid "Enable Featured Posts"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:41, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:41
+msgid "Query"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:42
+msgid "Featured Posts are handpicked manually. Please go to your Posts page and then mark the posts as \"Featured\"."
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:42
+msgid "Go to Posts List"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:54
+msgid "Exclude featured posts from main feed"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:55
+msgid "Posts that have been displayed in Featured Posts will not appear again in the main blog posts feed."
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:69, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:131, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:138, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:65
+msgid "Layout"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:82, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:151, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:48, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:79
+msgid "Position"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:84
+msgid "Above main content and sidebar area"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:85
+msgid "Full width section, above content section"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:106
+msgid "Bottom margin"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:134
+msgid "Slider"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:138
+msgid "Carousel"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:142
+msgid "Grid 3"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:146
+msgid "Grid 4"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:174
+msgid "Autoplay"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:206
+msgid "Maximum featured posts to display"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:238
+msgid "Slider height"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:275
+msgid "Carousel height"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:305
+msgid "Carousel columns"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:340
+msgid "Grid total height"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:377
+msgid "Items gutter"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:404
+msgid "Enable link on background image"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:418
+msgid "Meta 1 (above title)"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:420, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:439, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:391, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:226, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:264, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:254
+msgid "None"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:421, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:440, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:265
+msgid "Categories"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:422, inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:441, inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:266
+msgid "Date"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:437
+msgid "Meta 2 (below title)"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:474, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:172, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:163
+msgid "Typography"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:488
+msgid "Text alignment"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:491, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:70, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:236
+msgid "Center"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:525
+msgid "Title typography"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:558
+msgid "Small title typography"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:591
+msgid "Meta 1 typography"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:624
+msgid "Meta 2 typography"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:639, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:463, inc/modules/header-alt-colors/customizer/options/_page-settings.php:41, inc/modules/header-alt-colors/customizer/options/_page-settings.php:59, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:278, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:271
+msgid "Colors"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:652
+msgid "Post image overlay color"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:653
+msgid "Add overlay to each post background image."
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:673
+msgid "Text background color"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:688
+msgid "Solid color"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:689
+msgid "Gradient to transparent"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:703
+msgid "Title text color"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:704
+msgid "Title text color :hover"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:705
+msgid "Meta 1 text color"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:706
+msgid "Meta 1 text color :hover"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:707
+msgid "Meta 2 text color"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/blog--featured-posts.php:708
+msgid "Meta 2 text color :hover"
+msgstr ""
+
+#: inc/modules/blog-featured-posts/customizer/options/_sections.php:15, inc/modules/blog-related-posts/customizer/options/_sections.php:15, inc/modules/header-alt-colors/customizer/options/_sections.php:15, inc/modules/header-mega-menu/customizer/options/_sections.php:15, inc/modules/header-sticky/customizer/options/_sections.php:15, inc/modules/header-transparent/customizer/options/_sections.php:15, inc/modules/sidebar-sticky/customizer/options/_sections.php:15, inc/modules/woocommerce-ajax-add-to-cart/customizer/options/_sections.php:15, inc/modules/woocommerce-off-canvas-filters/customizer/options/_sections.php:15, inc/modules/woocommerce-quick-view/customizer/options/_sections.php:15
+msgid "Advanced"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--archive.php:37, inc/modules/blog-layout-plus/customizer/options/_sections.php:15
+msgid "List"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--archive.php:48
+msgid "Edit Post Layout: List"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:22
+msgid "Items gap"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:48
+msgid "Entry Wrapper"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:69, inc/modules/header-elements-plus/customizer/options/header--cart.php:72, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:105, inc/modules/preloader-screen/customizer/options/preloader-screen.php:48, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:28, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:116
+msgid "Padding"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:92, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:132, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:51
+msgid "Border"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:111, inc/modules/preloader-screen/customizer/options/preloader-screen.php:240
+msgid "Border radius"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:124, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:469, inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:66, inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:135, inc/modules/header-elements-plus/customizer/options/header--cart.php:113, inc/modules/header-sticky/customizer/options/header--sticky.php:148, inc/modules/header-sticky/customizer/options/header--sticky.php:301, inc/modules/header-transparent/customizer/options/header--transparent.php:65, inc/modules/header-transparent/customizer/options/header--transparent.php:125, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:298, inc/modules/preloader-screen/customizer/options/preloader-screen.php:327, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:70, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:291, inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:70
+msgid "Background color"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:125, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:470, inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:67, inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:136, inc/modules/header-sticky/customizer/options/header--sticky.php:149, inc/modules/header-sticky/customizer/options/header--sticky.php:302, inc/modules/header-transparent/customizer/options/header--transparent.php:66, inc/modules/header-transparent/customizer/options/header--transparent.php:126, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:299
+msgid "Border color"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:149, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:494
+msgid "Shadow"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:164
+msgid "Entry Header"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:178
+msgid "Header Meta"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:192
+msgid "Header meta text"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:193, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:449
+msgid "Available tags: {{date}}, {{categories}}, {{tags}}, {{author}}, {{avatar}}, {{comments}}."
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:207
+msgid "Entry Thumbnail"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:235, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:239
+msgid "Right Alt"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:235, inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:239
+msgid "Left Alt"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:256
+msgid "Image size"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:269, inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:116
+msgid "Ignore padding"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:281
+msgid "Full height (cover mode)"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:281
+msgid "Doesn't work on IE browser"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:301, inc/modules/header-elements-plus/customizer/options/header--cart.php:52, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:85, inc/modules/preloader-screen/customizer/options/preloader-screen.php:145, inc/modules/preloader-screen/customizer/options/preloader-screen.php:179, inc/modules/preloader-screen/customizer/options/preloader-screen.php:289, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:96, inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:109
+msgid "Width"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:329
+msgid "Gap with text column"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:355
+msgid "Entry Content"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:367
+msgid "Excerpt words limit"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:368
+msgid "Fill with 0 to disable excerpt."
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:389
+msgid "Read more display"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:392, inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:54
+msgid "Text"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:393, inc/modules/header-elements-plus/customizer/options/_sections.php:15, inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:41
+msgid "Button"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:406
+msgid "Read more text"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:407
+msgid "Leave empty to disable read more link."
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:421
+msgid "Entry Footer"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:435
+msgid "Footer Meta"
+msgstr ""
+
+#: inc/modules/blog-layout-plus/customizer/options/blog--entry-list.php:448
+msgid "Footer meta text"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:27
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:54
+msgid "Show posts that are ..."
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:56
+msgid "In same categories"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:57
+msgid "In same tags"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:58
+msgid "In same categories or tags"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:59
+msgid "In same both categories and tags"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:73
+msgid "Only posts within ... days"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:74
+msgid "Leave blank to query all posts from the beginning."
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:91
+msgid "Order by"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:93
+msgid "Older posts first"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:94
+msgid "Newer posts first"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:95
+msgid "Random"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:108
+msgid "Cache duration"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:124
+msgid "If no related posts found, nothing is displayed."
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:153
+msgid "After post content"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:154
+msgid "Before comments"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:168
+msgid "Maximum related posts to display"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:189
+msgid "Columns"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:210
+msgid "Heading text"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:224
+msgid "Thumbnail display"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:227
+msgid "Side"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:228, inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:82
+msgid "Top"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:243
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:245
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:247
+msgid "Medium Large"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/blog--related-posts.php:262
+msgid "Meta display"
+msgstr ""
+
+#: inc/modules/blog-related-posts/customizer/options/_sections.php:23
+msgid "Show list of posts that are similar or related to the current loaded blog post."
+msgstr ""
+
+#. translators: %d: column number.
+#: inc/modules/footer-widgets-columns-width/customizer/options/footer--builder.php:38
+msgid "#%d width"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:35
+msgid "Alternate logo image"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:49, inc/modules/header-transparent/customizer/options/header--transparent.php:48
+msgid "Top bar colors"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:50, inc/modules/header-transparent/customizer/options/header--transparent.php:49
+msgid "Main bar colors"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:51, inc/modules/header-transparent/customizer/options/header--transparent.php:50
+msgid "Bottom bar colors"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:68, inc/modules/header-elements-plus/customizer/options/header--cart.php:114, inc/modules/header-sticky/customizer/options/header--sticky.php:150, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:300, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:292, inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:71
+msgid "Text color"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:69, inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:137, inc/modules/header-elements-plus/customizer/options/header--cart.php:115, inc/modules/header-sticky/customizer/options/header--sticky.php:151, inc/modules/header-sticky/customizer/options/header--sticky.php:303, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:301, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:293
+msgid "Link text color"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:70, inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:138, inc/modules/header-elements-plus/customizer/options/header--cart.php:116, inc/modules/header-sticky/customizer/options/header--sticky.php:152, inc/modules/header-sticky/customizer/options/header--sticky.php:304, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:302, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:294
+msgid "Link text color :hover"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:71
+msgid "Link text color :active"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:72, inc/modules/header-sticky/customizer/options/header--sticky.php:153
+msgid "Highlight color :hover"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:73, inc/modules/header-sticky/customizer/options/header--sticky.php:154
+msgid "Highlight text color :hover"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:74, inc/modules/header-sticky/customizer/options/header--sticky.php:155
+msgid "Highlight color :active"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:75, inc/modules/header-sticky/customizer/options/header--sticky.php:156
+msgid "Highlight text color :active"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:113
+msgid "Alternate mobile logo image"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/header--alt-colors.php:129, inc/modules/header-transparent/customizer/options/header--transparent.php:119
+msgid "Mobile main bar colors"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/_page-settings.php:43, inc/modules/header-alt-colors/customizer/options/_page-settings.php:61
+msgid "&#x25cb; Primary"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/_page-settings.php:44, inc/modules/header-alt-colors/customizer/options/_page-settings.php:62
+msgid "&#x25cf; Alternate"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/_sections.php:28, inc/modules/header-sticky/customizer/options/_sections.php:28, inc/modules/header-transparent/customizer/options/_sections.php:28
+msgid "Tablet / Mobile"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/_sections.php:35
+msgid "Alternate Header Colors"
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/_sections.php:36
+msgid "Additional header color scheme that could be applied to specific pages."
+msgstr ""
+
+#: inc/modules/header-alt-colors/customizer/options/_sections.php:36
+msgid "For example, Page-A uses light-colored header, while Page-B uses dark-colored header."
+msgstr ""
+
+#. translators: %d: number of Button element.
+#: inc/modules/header-elements-plus/customizer/options/header--button.php:27
+msgid "Button %d"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--button.php:40
+msgid "Button link URL"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--button.php:53, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:51
+msgid "Button text"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--button.php:67
+msgid "Open button link in"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--button.php:69
+msgid "Same tab"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--button.php:70
+msgid "New tab"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--cart.php:39
+msgid "Off Canvas"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--cart.php:106, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:291, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:284
+msgid "Box shadow"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:23, inc/modules/header-elements-plus/customizer/options/_sections.php:22
+msgid "Contact Info"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:37
+msgid "Email"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:38
+msgid "Leave it blank to display Email as a plain text. Use this format: \"mailto:your.email@address.com\""
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:39
+msgid "mailto:your.email@address.com"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:42
+msgid "Phone"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:43
+msgid "Leave it blank to display Phone as a plain text. Use this format: \"tel:1234567890\""
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:44
+msgid "tel:1234567890"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:47
+msgid "Address"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:48
+msgid "Leave it blank to display Address as a plain text."
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:52
+msgid "Business Hours"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:53
+msgid "Leave it blank to display Business Hours as a plain text."
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:72
+msgid "Active items"
+msgstr ""
+
+#. translators: %s: contact item name.
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:95
+msgid "%s text"
+msgstr ""
+
+#. translators: %s: contact item name.
+#: inc/modules/header-elements-plus/customizer/options/header--contact.php:109
+msgid "%s URL"
+msgstr ""
+
+#. translators: %d: number of HTML element.
+#: inc/modules/header-elements-plus/customizer/options/header--html.php:25
+msgid "HTML %d"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--html.php:39
+msgid "Plain text, HTML tags, and shortcode are allowed."
+msgstr ""
+
+#. translators: %s: Menu element number.
+#: inc/modules/header-elements-plus/customizer/options/header--menu.php:28, inc/modules/header-vertical/customizer/options/header--menu.php:19
+msgid "Setup Menu"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--search.php:20
+msgid "Default search"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--search.php:24
+msgid "Products search (WooCommerce)"
+msgstr ""
+
+#: inc/modules/header-elements-plus/customizer/options/header--search.php:37
+msgid "Search query mode"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/header--mega-menu.php:18, inc/modules/header-transparent/customizer/options/header--alt-colors.php:21
+msgid "Top Bar"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/header--mega-menu.php:19, inc/modules/header-transparent/customizer/options/header--alt-colors.php:22
+msgid "Main Bar"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/header--mega-menu.php:20, inc/modules/header-transparent/customizer/options/header--alt-colors.php:23
+msgid "Bottom Bar"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/header--mega-menu.php:53
+msgid "Mega menu heading typography"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/header--mega-menu.php:59
+msgid "Mega menu heading text color"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/header--mega-menu.php:60
+msgid "Mega menu heading text color :hover"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/_sections.php:22
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/modules/header-mega-menu/customizer/options/_sections.php:23
+msgid "Mega Menu is only available for Desktop Header. You can build mega menu from the Menus editor."
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:35, inc/modules/header-sticky/customizer/options/header--sticky.php:206
+msgid "Enable sticky mode"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:35, inc/modules/header-sticky/customizer/options/header--sticky.php:206, inc/modules/header-transparent/customizer/options/header--transparent.php:35, inc/modules/header-transparent/customizer/options/header--transparent.php:104, inc/modules/preloader-screen/customizer/options/preloader-screen.php:27, inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:27
+msgid "You can enable or disable this option on each individual page."
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:35, inc/modules/header-sticky/customizer/options/header--sticky.php:206, inc/modules/header-transparent/customizer/options/header--transparent.php:35, inc/modules/header-transparent/customizer/options/header--transparent.php:104, inc/modules/preloader-screen/customizer/options/preloader-screen.php:27, inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:27
+msgid "Global"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:55
+msgid "Sticky bar"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:57
+msgid "Top bar"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:58
+msgid "Main bar"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:59
+msgid "Bottom bar"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:73, inc/modules/header-sticky/customizer/options/header--sticky.php:226, inc/modules/header-vertical/customizer/options/header--vertical-bar.php:28
+msgid "Display"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:75, inc/modules/header-sticky/customizer/options/header--sticky.php:228
+msgid "Always stick"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:76, inc/modules/header-sticky/customizer/options/header--sticky.php:229
+msgid "Hide on scroll down, show on scroll up"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:89, inc/modules/header-sticky/customizer/options/header--sticky.php:242, inc/modules/preloader-screen/customizer/options/preloader-screen.php:212
+msgid "Height"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:90, inc/modules/header-sticky/customizer/options/header--sticky.php:243
+msgid "Should be less than or equal to normal height of the selected bar."
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:116, inc/modules/header-sticky/customizer/options/header--sticky.php:269
+msgid "Sticky logo image"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:129, inc/modules/header-sticky/customizer/options/header--sticky.php:282
+msgid "Max width"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/header--sticky.php:180, inc/modules/header-sticky/customizer/options/header--sticky.php:328
+msgid "Sticky bar shadow"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/_page-settings.php:41, inc/modules/header-sticky/customizer/options/_page-settings.php:60
+msgid "Sticky"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/_page-settings.php:43, inc/modules/header-sticky/customizer/options/_page-settings.php:62, inc/modules/header-transparent/customizer/options/_page-settings.php:43, inc/modules/header-transparent/customizer/options/_page-settings.php:62, inc/modules/preloader-screen/customizer/options/_page-settings.php:58, inc/modules/sidebar-sticky/customizer/options/_page-settings.php:43
+msgid "-- Global --"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/_page-settings.php:44, inc/modules/header-sticky/customizer/options/_page-settings.php:63, inc/modules/header-transparent/customizer/options/_page-settings.php:44, inc/modules/header-transparent/customizer/options/_page-settings.php:63, inc/modules/preloader-screen/customizer/options/_page-settings.php:59, inc/modules/sidebar-sticky/customizer/options/_page-settings.php:44
+msgid "&#x2718; Disabled"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/_page-settings.php:45, inc/modules/header-sticky/customizer/options/_page-settings.php:64, inc/modules/header-transparent/customizer/options/_page-settings.php:45, inc/modules/header-transparent/customizer/options/_page-settings.php:64, inc/modules/preloader-screen/customizer/options/_page-settings.php:60, inc/modules/sidebar-sticky/customizer/options/_page-settings.php:45
+msgid "&#x2714; Enabled"
+msgstr ""
+
+#: inc/modules/header-sticky/customizer/options/_sections.php:35
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/modules/header-transparent/customizer/options/header--alt-colors.php:30, inc/modules/header-transparent/customizer/options/header--alt-colors.php:55
+msgid "Transparent header: Background color"
+msgstr ""
+
+#: inc/modules/header-transparent/customizer/options/header--alt-colors.php:31, inc/modules/header-transparent/customizer/options/header--alt-colors.php:56
+msgid "Transparent header: Border color"
+msgstr ""
+
+#: inc/modules/header-transparent/customizer/options/header--transparent.php:35, inc/modules/header-transparent/customizer/options/header--transparent.php:104
+msgid "Enable transparent mode"
+msgstr ""
+
+#: inc/modules/header-transparent/customizer/options/_page-settings.php:41, inc/modules/header-transparent/customizer/options/_page-settings.php:60
+msgid "Transparent"
+msgstr ""
+
+#: inc/modules/header-transparent/customizer/options/_sections.php:35
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:30
+msgid "Fixed (always visible)"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:31
+msgid "Drawer (triggered via \"Vertical Toggle\")"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:32
+msgid "Off canvas (triggered via \"Vertical Toggle\")"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:33
+msgid "Full screen (triggered via \"Vertical Toggle\")"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:52
+msgid "Center (only for Full Screen)"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:67
+msgid "Alignment"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:151
+msgid "Spacing between elements"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:196, inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:187
+msgid "Text typography"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:220
+msgid "Menu link typography"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:244
+msgid "Submenu link typography"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/header--vertical-bar.php:257
+msgid "Icon size"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/_sections.php:15
+msgid "Vertical Bar"
+msgstr ""
+
+#: inc/modules/header-vertical/customizer/options/_sections.php:16
+msgid "Please make sure you have put at least 1 header element in the Vertical Bar (via Header Builder), otherwise no Vertical Header would be displayed."
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:27
+msgid "Enable Preloader Screen"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:82
+msgid "Loader type"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:85
+msgid "CSS Spinner"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:89
+msgid "Bar"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:93, inc/modules/preloader-screen/customizer/options/preloader-screen.php:266
+msgid "Image"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:123
+msgid "Spinner"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:267
+msgid "TIPS: Use an optimized image (less than 50KB)."
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/preloader-screen.php:341
+msgid "Loader color"
+msgstr ""
+
+#: inc/modules/preloader-screen/customizer/options/_page-settings.php:56
+msgid "Preloader screen"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:27
+msgid "Enable sticky sidebar"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:39
+msgid "Top spacing"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:40
+msgid "If sticky header is enabled on the page, theme will automatically add the sticky header height to the top spacing value."
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:59
+msgid "Bottom spacing"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:79
+msgid "Anchor"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/content--sidebar-sticky.php:80
+msgid "If sidebar exceeds the screen viewport, choose which part of the sidebar that you prioritize to appear on the screen when scrolling down."
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/_sections.php:22
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/modules/sidebar-sticky/customizer/options/_sections.php:23
+msgid "Sticky Sidebar is only available on Desktop view."
+msgstr ""
+
+#: inc/modules/woocommerce-ajax-add-to-cart/customizer/options/woocommerce--ajax-add-to-cart.php:28
+msgid "Enable on products grid"
+msgstr ""
+
+#: inc/modules/woocommerce-ajax-add-to-cart/customizer/options/woocommerce--ajax-add-to-cart.php:28
+msgid "This is a mirror setting from WooCommerce > Settings > Products (tab) > Add to cart behaviour > Enable AJAX add to cart buttons on archives."
+msgstr ""
+
+#: inc/modules/woocommerce-ajax-add-to-cart/customizer/options/woocommerce--ajax-add-to-cart.php:40
+msgid "Enable on product page"
+msgstr ""
+
+#: inc/modules/woocommerce-ajax-add-to-cart/customizer/options/woocommerce--ajax-add-to-cart.php:59
+msgid "Show header cart after succeed"
+msgstr ""
+
+#: inc/modules/woocommerce-ajax-add-to-cart/customizer/options/woocommerce--ajax-add-to-cart.php:60
+msgid "After successfully added, open the header cart."
+msgstr ""
+
+#: inc/modules/woocommerce-ajax-add-to-cart/customizer/options/_sections.php:22
+msgid "AJAX Add To Cart"
+msgstr ""
+
+#: inc/modules/woocommerce-checkout-optimization/customizer/options/woocommerce--cart.php:34
+msgid "Sticky checkout button on mobile"
+msgstr ""
+
+#: inc/modules/woocommerce-checkout-optimization/customizer/options/woocommerce--cart.php:35
+msgid "When on tablet and mobile device, the checkout button will stick / float at bottom of screen. This might help your mobile users to checkout faster and increase your conversion."
+msgstr ""
+
+#: inc/modules/woocommerce-checkout-optimization/customizer/options/woocommerce--checkout.php:34
+msgid "Distraction free mode"
+msgstr ""
+
+#: inc/modules/woocommerce-checkout-optimization/customizer/options/woocommerce--checkout.php:35
+msgid "Simplify your original header, page header, and footer to only show logo and copyright. This will help users to focus only on the checkout process."
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:89
+msgid "Same height items in a row"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:90
+msgid "Make all items in a row have same height. The add to cart button will be pushed at the bottom of the item."
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:104
+msgid "Product Image"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:128
+msgid "Enable alternate hover image"
+msgstr ""
+
+#: inc/modules/woocommerce-layout-plus/customizer/options/woocommerce--products-grid.php:129
+msgid "When product thumbnail is hovered, the main image will switch to the 1st image of defined \"Product gallery\". If there is no image found, the main product thumbnail will remain displayed."
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:27
+msgid "Enable off canvas filters"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:39
+msgid "Show active filters"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:143
+msgid "Gap between widgets"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:219
+msgid "Widget title typography"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:233
+msgid "Widget title alignment"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:252
+msgid "Widget title decoration"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:255
+msgid "Box"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:256
+msgid "Border bottom"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:295
+msgid "Widget title text color"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:296
+msgid "Widget title background color"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/woocommerce--off-canvas-filters.php:297
+msgid "Widget title border color"
+msgstr ""
+
+#: inc/modules/woocommerce-off-canvas-filters/customizer/options/_sections.php:23
+msgid "Off Canvas Filters is an additional widgets area that contains products filtering widgets."
+msgstr ""
+
+#: inc/modules/woocommerce-quick-view/customizer/options/woocommerce--ajax-add-to-cart.php:27
+msgid "Enable on quick view popup"
+msgstr ""
+
+#: inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:27
+msgid "Enable quick view"
+msgstr ""
+
+#: inc/modules/woocommerce-quick-view/customizer/options/woocommerce--quick-view.php:96
+msgid "Popup"
+msgstr ""
+
+#: inc/modules/woocommerce-quick-view/customizer/options/_sections.php:22
+msgid "Product Quick View"
+msgstr ""
+
+#: inc/modules/woocommerce-quick-view/customizer/options/_sections.php:23
+msgid "Quick View allows users to view summary info of a product and add to cart directly from the shop page."
+msgstr ""

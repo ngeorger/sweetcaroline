@@ -1,0 +1,35 @@
+# Copyright (C) 2019 Cakecious
+# This file is distributed under the same license as the Cakecious package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cakecious\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: https://cakecious.com\n"
+"Last-Translator: Cakecious\n"
+"Report-Msgid-Bugs-To: https://cakecious.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: inc/elementor/elementor-init.php:138, inc/elementor/elementor-init.php:162
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: inc/elementor/elementor-init.php:139, inc/elementor/elementor-init.php:163
+msgid "Cakecious Features"
+msgstr ""
+
+#: inc/elementor/elementor-init.php:140
+msgid "Elementor"
+msgstr ""
+
+#: inc/elementor/elementor-init.php:164
+msgid "PHP"
+msgstr ""

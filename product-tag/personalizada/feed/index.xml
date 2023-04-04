@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Personalizada &#8211; SweetCaroline</title>
+	<atom:link href="/product-tag/personalizada/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Sat, 27 Aug 2022 04:57:51 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Personalizada &#8211; SweetCaroline</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sol y luna</title>
+		<link>/product/personalizada-sol-y-luna/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 19:23:14 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4116</guid>
+
+					<description><![CDATA[Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.]]></description>
+										<content:encoded><![CDATA[<p>Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mariposas</title>
+		<link>/product/product-3/</link>
+		
+		<dc:creator><![CDATA[ngeorger]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2020 06:56:45 +0000</pubDate>
+				<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/?product=hoodie-with-zipper</guid>
+
+					<description><![CDATA[Torta]]></description>
+										<content:encoded><![CDATA[<p>Torta con bizcocho de vainilla, rellena con mermelada de frambuesa y ganache de chocolate, cubierta con buttercream y decorada con figuras de fondant.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

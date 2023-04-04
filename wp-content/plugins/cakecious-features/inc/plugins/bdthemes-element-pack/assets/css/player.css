@@ -1,0 +1,114 @@
+.elementor-widget-bdt-audio-player .elementor-widget-container {
+  background-color: #f4f7f9;
+  padding: 25px;
+  display: inline-block;
+  width: 100%;
+}
+.jp-audio *:focus,
+.jp-audio-stream *:focus,
+.jp-video *:focus {
+  /* Disable the browser focus highlighting. */
+  outline: none;
+}
+.jp-audio button::-moz-focus-inner,
+.jp-audio-stream button::-moz-focus-inner,
+.jp-video button::-moz-focus-inner {
+  border: 0;
+}
+.jp-audio,
+.jp-audio-stream,
+.jp-video {
+  font-size: 16px;
+  font-family: Verdana, Arial, sans-serif;
+  line-height: 1.6;
+  color: #666;
+}
+.jp-audio .jp-controls a {
+  display: block;
+  float: left;
+  overflow: hidden;
+  cursor: pointer;
+  display: inline-block;
+  color: #262929;
+}
+.jp-audio .jp-play,
+.jp-audio .jp-pause,
+.jp-audio .jp-mute,
+.jp-audio .jp-unmute {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 36px;
+  border-radius: 5px;
+}
+.jp-audio .jp-play svg,
+.jp-audio .jp-pause svg,
+.jp-audio .jp-mute svg,
+.jp-audio .jp-unmute svg {
+  width: 16px;
+  height: auto;
+}
+.jp-audio .jp-progress {
+  padding: 0;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}
+.jp-audio .jp-seek-bar {
+  width: 0px;
+  cursor: pointer;
+  position: relative;
+  height: 7px;
+  background: #464849;
+  border-radius: 1px;
+  overflow: hidden;
+}
+.jp-audio .jp-play-bar {
+  width: 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  height: 100%;
+}
+.jp-audio .jp-volume-bar {
+  float: right;
+  z-index: 99;
+  position: relative;
+  width: 50px;
+  height: 7px;
+  cursor: pointer;
+  background: #262929;
+  border-radius: 1px;
+}
+.jp-audio .jp-volume-bar-value {
+  width: 0px;
+  height: 100%;
+  border-radius: 1px;
+  transition: width 350ms ease-out;
+}
+.jp-audio .jp-play-bar,
+.jp-audio .jp-volume-bar-value {
+  background-size: 7px 7px;
+  background-color: #238FF7;
+  background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.3) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 75%, transparent 75%, transparent);
+}
+.jp-audio.jp-state-playing .jp-play-bar {
+  animation: player-progress 0.75s linear infinite;
+}
+@-webkit-keyframes player-progress {
+  0% {
+    background-position: 0;
+  }
+  100% {
+    background-position: -7px;
+  }
+}
+@keyframes player-progress {
+  0% {
+    background-position: 0;
+  }
+  100% {
+    background-position: -7px;
+  }
+}

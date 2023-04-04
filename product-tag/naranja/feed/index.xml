@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Naranja &#8211; SweetCaroline</title>
+	<atom:link href="/product-tag/naranja/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Sat, 27 Aug 2022 04:43:14 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Naranja &#8211; SweetCaroline</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Panqueque Naranja</title>
+		<link>/product/panqueque-naranja/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 05:40:39 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4709</guid>
+
+					<description><![CDATA[Láminas de bizcocho 4/4 alternados con crema de naranja, cubierta con crema de naranjas y coco rallado, decoraciones de chocolate y guindas en almíbar.
+
+Torta 15 x 15 cm de diámetro, 12 cm de alto aproximadamente
+
+Rendimiento de 15 a 20 personas]]></description>
+										<content:encoded><![CDATA[Láminas de bizcocho 4/4 alternados con crema de naranja, cubierta con crema de naranjas y coco rallado, decoraciones de chocolate y guindas en almíbar.
+
+Torta 15 x 15 cm de diámetro, 12 cm de alto aproximadamente
+
+Rendimiento de 15 a 20 personas]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

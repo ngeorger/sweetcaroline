@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Diseño de torta &#8211; SweetCaroline</title>
+	<atom:link href="/product-tag/diseno-de-torta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Sat, 27 Aug 2022 04:53:04 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Diseño de torta &#8211; SweetCaroline</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Torta Suculentas</title>
+		<link>/product/torta-suculentas/</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 06:12:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=4682</guid>
+
+					<description><![CDATA[Torta en bizcocho de chocolate cubierta con ganache bitter y decoración de diseño de suculentas y cactus en crema de mantequilla.
+
+<em>*Todas las tortas decoradas se cotizarn por su tamaño e ingredientes, para saber cómo pedirla pinche aquí</em>]]></description>
+										<content:encoded><![CDATA[Torta en bizcocho de chocolate cubierta con ganache bitter y decoración de diseño de suculentas y cactus en crema de mantequilla.
+
+<em>*Todas las tortas decoradas se cotizarn por su tamaño e ingredientes, para saber cómo pedirla pinche aquí</em>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,3 @@
+(`id`, `title`, `alias`, `ordering`, `params`, `type`, `parent_id`) VALUES
+(2,	'Airtech',	'airtech',	1,	'',	'elementor',	NULL),
+(3,	'Airtech_home',	'airtech_home',	2,	'',	'elementor',	NULL);

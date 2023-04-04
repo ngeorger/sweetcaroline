@@ -62,7 +62,7 @@
 	
 	width: 13px;
 	height: 13px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/trans_tile.png);
+	background: url(./../images/trans_tile.png);
 	border-radius: 2px;
 	border: 1px solid #414448;	
 	box-sizing: border-box;
@@ -725,7 +725,7 @@
 	border-radius: 0;
 	box-sizing: border-box;
 	box-shadow: inset 0 0 5px rgba(0,0,0,0.4);
-    background: url(/wp-content/plugins/revslider/admin/assets/images/trans_tile.png);
+    background: url(./../images/trans_tile.png);
 	
 }
 
@@ -865,7 +865,7 @@
 
 .revbuilder-cpicker-preset-tile {
 	
-	background: url(/wp-content/plugins/revslider/admin/assets/images/trans_tile.png);
+	background: url(./../images/trans_tile.png);
 	border-radius: 4px; /* Hide strange Radius Failure */
 	
 }
@@ -1076,7 +1076,7 @@
 	
 	width: 236px;
 	height: 50px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/trans_tile.png);
+	background: url(./../images/trans_tile.png);
 	
 }
 
@@ -1250,14 +1250,14 @@
 .revbuilder-cpicker-point-top {
 	
 	top: -17px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/point_top.png) left top no-repeat;
+	background: url(./../images/point_top.png) left top no-repeat;
 	
 }
 
 .revbuilder-cpicker-point-bottom {
 	
 	bottom: -17px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/point_bottom.png) left top no-repeat;
+	background: url(./../images/point_bottom.png) left top no-repeat;
 	
 }
 

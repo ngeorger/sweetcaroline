@@ -266,14 +266,14 @@ html {
 .loader_round {
 	width: 16px;
 	height: 16px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/loader.gif');
+	background-image: url('./../images/loader.gif');
 	background-repeat: no-repeat;
 	padding-left: 20px;
 	display: inline-block;
 }
 .loader_text {
 	min_height: 16px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/loader.gif');
+	background-image: url('./../images/loader.gif');
 	background-repeat: no-repeat;
 	padding-left: 22px;
 }
@@ -857,7 +857,7 @@ ul.unite-context-menu li a:focus {
 .unite-dialog-loader {
 	margin-top: 5px;
 	min-height: 16px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/loader.gif');
+	background-image: url('./../images/loader.gif');
 	background-repeat: no-repeat;
 	padding-left: 22px;
 }
@@ -1863,7 +1863,7 @@ table.unite_table_settings_wide .setting_onecell_text {
 }
 
 .uc-mappicker-overlay-trans{
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/trans_tile.png');
+	background-image:url('./../images/trans_tile.png');
 }
 
 .uc-mappicker-overlay-text{
@@ -2090,7 +2090,7 @@ table.unite_table_settings_wide .setting_onecell_text {
 
   .tipsy-inner { border-radius: 3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
 
-  .tipsy-arrow { position: absolute; background: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/tipsy.gif') no-repeat top left; width: 9px; height: 5px; }
+  .tipsy-arrow { position: absolute; background: url('./../images/tipsy.gif') no-repeat top left; width: 9px; height: 5px; }
 
   .tipsy-n .tipsy-arrow { top: 0; left: 50%; margin-left: -4px; }
 

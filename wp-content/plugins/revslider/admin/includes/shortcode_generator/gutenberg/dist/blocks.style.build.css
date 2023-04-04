@@ -5,7 +5,7 @@
  * that are used across the project.
 */
 div.revslider_block {
-  background: url(/wp-content/plugins/revslider/admin/includes/shortcode_generator/gutenberg/dist/images/rs6_logo_2x.png);
+  background: url(./images/rs6_logo_2x.png);
   background-size: 120px 30px;
   background-repeat: no-repeat;
   line-height: 32px; }

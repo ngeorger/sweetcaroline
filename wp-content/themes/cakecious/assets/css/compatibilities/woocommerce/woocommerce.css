@@ -24,16 +24,16 @@ body .site {
 
 @font-face {
 	font-family: "star";
-	src: url("/wp-content/plugins/woocommerce/assets/fonts/star.eot");
-	src: url("/wp-content/plugins/woocommerce/assets/fonts/star.eot#iefix") format("embedded-opentype"), url("/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+	src: url("./../../../../../../plugins/woocommerce/assets/fonts/star.eot");
+	src: url("./../../../../../../plugins/woocommerce/assets/fonts/star.eot#iefix") format("embedded-opentype"), url("./../../../../../../plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("./../../../../../../plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("./../../../../../../plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "WooCommerce";
-	src: url("/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot");
-	src: url("/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot#iefix") format("embedded-opentype"), url("/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+	src: url("./../../../../../../plugins/woocommerce/assets/fonts/WooCommerce.eot");
+	src: url("./../../../../../../plugins/woocommerce/assets/fonts/WooCommerce.eot#iefix") format("embedded-opentype"), url("./../../../../../../plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("./../../../../../../plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("./../../../../../../plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -103,7 +103,7 @@ p.demo_store a,
 	content: '';
 	-webkit-animation: spin 1s ease-in-out infinite;
 	animation: spin 1s ease-in-out infinite;
-	background: url("/wp-content/plugins/woocommerce/assets/images/icons/loader.svg") center center;
+	background: url("./../../../../../../plugins/woocommerce/assets/images/icons/loader.svg") center center;
 	background-size: cover;
 	line-height: 1;
 	text-align: center;
@@ -123,7 +123,7 @@ p.demo_store a,
 	content: '';
 	-webkit-animation: spin 1s ease-in-out infinite;
 	animation: spin 1s ease-in-out infinite;
-	background: url("/wp-content/plugins/woocommerce/assets/images/icons/loader.svg") center center;
+	background: url("./../../../../../../plugins/woocommerce/assets/images/icons/loader.svg") center center;
 	background-size: cover;
 	line-height: 1;
 	text-align: center;
@@ -2475,7 +2475,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.visa,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.visa,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.visa {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/visa.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.mastercard,
@@ -2484,7 +2484,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.mastercard,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.laser,
@@ -2493,7 +2493,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.laser,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.laser,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.laser {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/laser.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.dinersclub,
@@ -2502,7 +2502,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.dinersclub,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/diners.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.maestro,
@@ -2511,7 +2511,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.maestro,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.maestro,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.maestro {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.jcb,
@@ -2520,7 +2520,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.jcb,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.jcb,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.jcb {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.amex,
@@ -2529,7 +2529,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.amex,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.amex,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.amex {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/amex.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.discover,
@@ -2538,7 +2538,7 @@ p.demo_store a,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.discover,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.discover,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.discover {
-	background-image: url("/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg");
+	background-image: url("./../../../../../../plugins/woocommerce/assets/images/icons/credit-cards/discover.svg");
 }
 
 .woocommerce-checkout #payment div.payment_box > *:last-child,

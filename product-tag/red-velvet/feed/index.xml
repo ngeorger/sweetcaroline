@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Red velvet &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/red-velvet/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Sat, 11 Mar 2023 15:08:26 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Red velvet &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Red Velvet</title>
-		<link>/product/red-velvet-2/</link>
+		<link>./../../../product/red-velvet-2/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 05:27:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4707</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4707</guid>
 
 					<description><![CDATA[Bizcocho con receta tradicional de red velvet, relleno con crema de queso tipo philadelphia, cubierta con crema de queso, decorada con frutos rojos y migas de bizcocho.
 
@@ -51,11 +51,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Halloween Cupcake</title>
-		<link>/product/cupcake-personalizado/</link>
+		<link>./../../../product/cupcake-personalizado/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 03:38:59 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4663</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4663</guid>
 
 					<description><![CDATA[Bizcochito con centro de sabor y topping. Este item sólo se vende a pedido con un mínimo de 12 unidades y se cotiza la personalización. Precio base desde $ 1.900 c/u]]></description>
 										<content:encoded><![CDATA[<p>Pequeño bizcocho red velvet (chocolate teñido de rojo con colorante vegetal rojo) cubierto por crema de leche batida y mezclada con queso crema. Este pastelito es de origen norteamericano.</p>
@@ -69,11 +69,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Red Velvet cupcake</title>
-		<link>/product/cupcake-red-velvet/</link>
+		<link>./../../../product/cupcake-red-velvet/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Sun, 05 Sep 2021 03:43:54 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3772</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3772</guid>
 
 					<description><![CDATA[Bizcochito red velvet  de un intenso color rojo realizado con una mezcla de pulpa de beterraga y chocolate con topping cremoso hecho con crema de leche y queso crema batido, saborizado con vainilla de madagascar y chispas de azúcar.
 

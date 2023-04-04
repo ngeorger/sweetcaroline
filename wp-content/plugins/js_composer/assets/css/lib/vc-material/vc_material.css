@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'vc_material';
   src:
-    url('/wp-content/plugins/js_composer/assets/css/lib/vc-material/fonts/vc_material.ttf?1qpt95') format('truetype'),
-    url('/wp-content/plugins/js_composer/assets/css/lib/vc-material/fonts/vc_material.woff?1qpt95') format('woff'),
-    url('/wp-content/plugins/js_composer/assets/css/lib/vc-material/fonts/vc_material.svg?1qpt95#vc_material') format('svg');
+    url('./fonts/vc_material.ttf?1qpt95') format('truetype'),
+    url('./fonts/vc_material.woff?1qpt95') format('woff'),
+    url('./fonts/vc_material.svg?1qpt95#vc_material') format('svg');
   font-weight: normal;
   font-style: normal;
 }

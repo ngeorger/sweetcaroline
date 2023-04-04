@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pastel de Luna &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/pastel-de-luna/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Thu, 25 Aug 2022 02:09:33 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Pastel de Luna &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Moon Cake</title>
-		<link>/product/moon-cake-pastel-de-luna/</link>
+		<link>./../../../product/moon-cake-pastel-de-luna/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 01:49:18 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4654</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4654</guid>
 
 					<description><![CDATA[Este pastelito chino es una masa horneada y rellena con una molienda de frutos secos y semillas.
 

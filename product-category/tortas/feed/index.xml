@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tortas &#8211; SweetCaroline</title>
-	<atom:link href="/product-category/tortas/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Sat, 11 Mar 2023 15:08:26 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Tortas &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Crema fruta</title>
-		<link>/product/crema-fruta/</link>
+		<link>./../../../product/crema-fruta/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 06:14:15 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4715</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4715</guid>
 
 					<description><![CDATA[Bizcocho relleno con crema y frutas, decoradas con rizos de crema, fruta y sprinkle.
 
@@ -53,11 +53,11 @@ Rendimiento de 15 a 20 porciones]]></description>
 			</item>
 		<item>
 		<title>Amanda</title>
-		<link>/product/amanda/</link>
+		<link>./../../../product/amanda/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 06:06:41 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4713</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4713</guid>
 
 					<description><![CDATA[Torta de bizcocho de vainilla relleno con mermelada de frambuesa, crema pastelera, crema de leche montada (chantilly), cubierta con crema de leche montada sabor caramelo (chantycaramel), baño espejo de chocolate  en el centro decorada con migas de bizcocho y filigrana de caramelo.
 
@@ -75,11 +75,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Panqueque Naranja</title>
-		<link>/product/panqueque-naranja/</link>
+		<link>./../../../product/panqueque-naranja/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 05:40:39 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4709</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4709</guid>
 
 					<description><![CDATA[Láminas de bizcocho 4/4 alternados con crema de naranja, cubierta con crema de naranjas y coco rallado, decoraciones de chocolate y guindas en almíbar.
 
@@ -97,11 +97,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Red Velvet</title>
-		<link>/product/red-velvet-2/</link>
+		<link>./../../../product/red-velvet-2/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 05:27:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4707</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4707</guid>
 
 					<description><![CDATA[Bizcocho con receta tradicional de red velvet, relleno con crema de queso tipo philadelphia, cubierta con crema de queso, decorada con frutos rojos y migas de bizcocho.
 
@@ -119,11 +119,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Torta Suculentas</title>
-		<link>/product/torta-suculentas/</link>
+		<link>./../../../product/torta-suculentas/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 06:12:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4682</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4682</guid>
 
 					<description><![CDATA[Torta en bizcocho de chocolate cubierta con ganache bitter y decoración de diseño de suculentas y cactus en crema de mantequilla.
 
@@ -137,11 +137,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Torta Diabéticos</title>
-		<link>/product/torta-diabeticos/</link>
+		<link>./../../../product/torta-diabeticos/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 01:34:35 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4142</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4142</guid>
 
 					<description><![CDATA[Bizcocho de vainilla, relleno y cubierta con fruta fresca y crema montada.
 
@@ -159,11 +159,11 @@ Rendimiento de 15 a 20 porciones]]></description>
 			</item>
 		<item>
 		<title>Choco Amor</title>
-		<link>/product/choco-amor-2/</link>
+		<link>./../../../product/choco-amor-2/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 21:31:20 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4123</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4123</guid>
 
 					<description><![CDATA[Bizcocho de cacao, remojado con alcohol, relleno de frambuesa, ganache de chocolate y una fina capa de manjar, cubierta de ganache de chocolate bitter.
 
@@ -180,11 +180,11 @@ Rendimiento de 15 a 20 personas]]></description>
 			</item>
 		<item>
 		<title>Bombera</title>
-		<link>/product/bombera/</link>
+		<link>./../../../product/bombera/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 20:42:56 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4120</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4120</guid>
 
 					<description><![CDATA[Bizcocho de chocolate rellena con ganache de chocolate bitter y oreo molida. Cubierta de butter cream sabor frutilla colorizada. Modelado de bombera en fondant.]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho de chocolate rellena con ganache de chocolate bitter y oreo molida. Cubierta de butter cream sabor frutilla colorizada. Modelado de bombera en fondant.</p>
@@ -195,11 +195,11 @@ Rendimiento de 15 a 20 personas]]></description>
 			</item>
 		<item>
 		<title>Hada</title>
-		<link>/product/hada/</link>
+		<link>./../../../product/hada/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 19:57:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4118</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4118</guid>
 
 					<description><![CDATA[Bizcocho vainilla, relleno con ganache de chocolate blanco saborizado con pulpa de frutillas, cubierto con buttercream colorizado y aplicaciones en fondant, hada modelada en fondant.]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho vainilla, relleno con ganache de chocolate blanco saborizado con pulpa de frutillas, cubierto con buttercream colorizado y aplicaciones en fondant, hada modelada en fondant.</p>
@@ -210,11 +210,11 @@ Rendimiento de 15 a 20 personas]]></description>
 			</item>
 		<item>
 		<title>Sol y luna</title>
-		<link>/product/personalizada-sol-y-luna/</link>
+		<link>./../../../product/personalizada-sol-y-luna/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 19:23:14 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4116</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4116</guid>
 
 					<description><![CDATA[Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.]]></description>
 										<content:encoded><![CDATA[<p>Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.</p>

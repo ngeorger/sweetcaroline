@@ -18,7 +18,7 @@
 	width: 15px;
 	height: 15px;
 	color: #FFF;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/check.png) center center/15px 15px no-repeat transparent;
+	background: url(./../images/check.png) center center/15px 15px no-repeat transparent;
 	
 }
 
@@ -605,7 +605,7 @@
 	margin-left: 10px;
 	width: 17px;
 	height: 22px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/hand.png) no-repeat center center;
+	background: url(./../images/hand.png) no-repeat center center;
 	content: "";
 	z-index: 99999;
 	
@@ -615,7 +615,7 @@
 	
 	width: 18px;
 	height: 18px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/move.png) no-repeat center center;
+	background: url(./../images/move.png) no-repeat center center;
 	background-size: 18px 18px;
 	bottom: -5px;
 	left: -14px;

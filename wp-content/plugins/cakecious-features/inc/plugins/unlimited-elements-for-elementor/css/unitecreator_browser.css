@@ -46,7 +46,7 @@ body.uc-catalog-open{
     height:25px;
     margin-top:22px;
     margin-left:13px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/logo_blox.png');
+	background-image: url('./../images/logo_blox.png');
 }
 
 .uc-catalog .uc-catalog-header{

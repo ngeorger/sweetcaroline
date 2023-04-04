@@ -9,8 +9,8 @@
 
 <channel>
 	<title>bañado en chocolate &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/banado-en-chocolate/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Thu, 25 Aug 2022 03:19:16 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>bañado en chocolate &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Madeleine Maqui</title>
-		<link>/product/madeleine-maqui/</link>
+		<link>./../../../product/madeleine-maqui/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 03:11:22 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4659</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4659</guid>
 
 					<description><![CDATA[Suave bizcocho sabor a maqui con trozos de chocolate bitter y costra de chocolate blanco saborizado con maqui.]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho de textura suave, saborizado y bañado en chocolate, este bizcochito comparte su origen entre Francia y España.</p>
@@ -44,11 +44,11 @@
 			</item>
 		<item>
 		<title>Madeleine Matcha</title>
-		<link>/product/madeleine/</link>
+		<link>./../../../product/madeleine/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 27 Jan 2022 02:44:45 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4009</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4009</guid>
 
 					<description><![CDATA[Suave bizcocho sabor a matcha con trozos de chocolate bitter y costra de chocolate blanco saborizado con matcha.]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho de textura suave, saborizado y bañado en chocolate, este bizcochito comparte su origen entre Francia y España.</p>

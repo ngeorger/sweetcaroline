@@ -4,7 +4,7 @@
 	position: absolute;
 	display: none;
 	overflow: hidden;
-	background: url(/wp-content/plugins/cakecious-features/inc/plugins/bdthemes-element-pack/assets/images/loading.gif)  no-repeat center center ;
+	background: url(./../images/loading.gif)  no-repeat center center ;
 	cursor: crosshair;
 	z-index: 9999;
 }
@@ -21,7 +21,7 @@
 }
 .zm-handlerarea
 {
-	background:url(/wp-content/plugins/cakecious-features/inc/plugins/bdthemes-element-pack/assets/images/lens.png);
+	background:url(./../images/lens.png);
 	opacity:.9;
 	position:relative;
 }

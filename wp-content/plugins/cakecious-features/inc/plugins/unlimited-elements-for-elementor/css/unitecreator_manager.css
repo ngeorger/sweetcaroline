@@ -216,7 +216,7 @@
 .status_loader {
 	width: 16px;
 	height: 16px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/loader-status.gif');
+	background-image: url('./../images/loader-status.gif');
 }
 
 .dialog_edit_category_inner {
@@ -387,14 +387,14 @@
 .items_list_wrapper .icon_drag {
 	width: 24px;
 	height: 24px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_drag.png');
+	background-image: url('./../images/icon_drag.png');
 	z-index: 1000;
 	position: absolute;
 }
 .items_list_wrapper .icon_notdrag {
 	width: 22px;
 	height: 22px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_notdrag.png');
+	background-image: url('./../images/icon_notdrag.png');
 	z-index: 1000;
 	position: absolute;
 }
@@ -752,19 +752,19 @@
 }
 
 .list_items li.item_type_youtube .uc-item-icon {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_youtube_32.png');
+	background-image: url('./../images/icon_youtube_32.png');
 }
 
 .list_items li.item_type_vimeo .uc-item-icon {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_vimeo_32.png');
+	background-image: url('./../images/icon_vimeo_32.png');
 }
 
 .list_items li.item_type_wistia .uc-item-icon {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_wistia_32.png');
+	background-image: url('./../images/icon_wistia_32.png');
 }
 
 .list_items li.item_type_html5video .uc-item-icon {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_html5video_32.png');
+	background-image: url('./../images/icon_html5video_32.png');
 	bottom: -3px;
 	right: -3px;
 }

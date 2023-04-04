@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Diabéticos &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/diabeticos/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Wed, 07 Sep 2022 02:20:35 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Diabéticos &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Torta Diabéticos</title>
-		<link>/product/torta-diabeticos/</link>
+		<link>./../../../product/torta-diabeticos/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 01:34:35 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4142</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4142</guid>
 
 					<description><![CDATA[Bizcocho de vainilla, relleno y cubierta con fruta fresca y crema montada.
 

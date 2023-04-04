@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Queso &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/queso/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Sat, 11 Mar 2023 15:08:26 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Queso &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Red Velvet</title>
-		<link>/product/red-velvet-2/</link>
+		<link>./../../../product/red-velvet-2/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 05:27:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4707</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4707</guid>
 
 					<description><![CDATA[Bizcocho con receta tradicional de red velvet, relleno con crema de queso tipo philadelphia, cubierta con crema de queso, decorada con frutos rojos y migas de bizcocho.
 
@@ -51,11 +51,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Quiche de Espinacas</title>
-		<link>/product/quiche-de-espinacas/</link>
+		<link>./../../../product/quiche-de-espinacas/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2022 22:15:10 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4234</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4234</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -65,11 +65,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Quiche Lorraine</title>
-		<link>/product/quiche-lorraine/</link>
+		<link>./../../../product/quiche-lorraine/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2022 22:07:52 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4232</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4232</guid>
 
 					<description><![CDATA[Tarta salada de masa quebrada rellena con un batido de huevos, crema de leche, queso y tocino.]]></description>
 										<content:encoded><![CDATA[<p>Tarta salada de masa quebrada rellena con un batido de huevos, crema de leche, queso y tocino.</p>
@@ -80,11 +80,11 @@ Rendimiento de 15 a 20 personas]]></content:encoded>
 			</item>
 		<item>
 		<title>Mini Hamburguesa Vacuno</title>
-		<link>/product/mini-hamburguesa/</link>
+		<link>./../../../product/mini-hamburguesa/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Sun, 22 Aug 2021 23:31:43 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3536</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3536</guid>
 
 					<description><![CDATA[Pan y hamburguesa artesanal de producción propia, carne de vacuno premium, base de, lechuga, tomate y lámina de queso. *Para personalizar los agregados realizar pedido aparte. Sólo para pedidos sobre 12 unidades]]></description>
 										<content:encoded><![CDATA[<p>Pan y hamburguesa artesanal de producción propia, carne de vacuno premium, base de, lechuga, tomate y lámina de queso.</p>

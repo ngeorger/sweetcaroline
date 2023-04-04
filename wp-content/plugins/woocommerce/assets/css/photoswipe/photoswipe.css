@@ -9,7 +9,7 @@
 }
 button.pswp__button {
 	box-shadow: none !important;
-	background-image: url('/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png') !important;
+	background-image: url('./default-skin/default-skin.png') !important;
 }
 button.pswp__button,
 button.pswp__button:hover,

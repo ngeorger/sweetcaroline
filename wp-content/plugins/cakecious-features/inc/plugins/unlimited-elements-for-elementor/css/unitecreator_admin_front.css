@@ -333,7 +333,7 @@ body.uc-blank-preview{
 .uc-grid-panel .uc-grid-panel-head .uc-grid-panel-head-logo{
 	font-weight:bold;
 	color:#ffffff;
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_blox_sidepanel.png');
+	background-image:url('./../images/icon_blox_sidepanel.png');
 	width:71px;
 	height:20px;
 	position:absolute;
@@ -733,7 +733,7 @@ body.uc-blank-preview{
 .uc-grid-builder .uc-grid-row.ui-sortable-helper{
 	transition: none;
 	background-color:transparent;
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/trans_tile.png');
+	background-image:url('./../images/trans_tile.png');
 	background-repeat:repeat;
 }
 	
@@ -1188,7 +1188,7 @@ body.uc-blank-preview{
 .uc-grid-builder .uc-grid-col.ui-sortable-helper{
 	transition: none;
 	background-color:transparent;
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/trans_tile.png');
+	background-image:url('./../images/trans_tile.png');
 	background-repeat:repeat;
 }
 
@@ -1355,7 +1355,7 @@ body.uc-blank-preview{
 	transition: none;
 	/*
 	background-color:transparent;
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/trans_tile.png');
+	background-image:url('./../images/trans_tile.png');
 	background-repeat:repeat;
 	*/
 }

@@ -14,7 +14,7 @@
 #objectlibrary { font-family: "Roboto" }
 
 
-#rb_the_logo { /*display: inline-block; line-height: 50px;  color: #777c80; font-size: 16px; font-weight: 900; text-align: center*/ width: 50px;height: 50px; background:url(/wp-content/plugins/revslider/admin/assets/images/wplogo.png); background-size:30px 30px; background-repeat: no-repeat; background-position: center; cursor: pointer }
+#rb_the_logo { /*display: inline-block; line-height: 50px;  color: #777c80; font-size: 16px; font-weight: 900; text-align: center*/ width: 50px;height: 50px; background:url(./../images/wplogo.png); background-size:30px 30px; background-repeat: no-repeat; background-position: center; cursor: pointer }
 
 .rs_fh_right * {-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
 
@@ -161,8 +161,8 @@
 #rbm_decisionModal .rbm_content { padding: 50px; }
 .rbm_general_half { width: 50%;position: relative; display: inline-block; vertical-align: top; box-sizing: border-box }
 #rbm_welcomeModal { width: 1200px; }
-#rbm_welcomeModal .rbm_content{ background-image:url(/wp-content/plugins/revslider/admin/assets/images/wc.jpg); background-position:top center; background-repeat:no-repeat; background-color:#212226;}
-#welcome_logo { background: url(/wp-content/plugins/revslider/admin/assets/images/wc_logo.png); background-size: contain; width:300px; height:100px; position: relative; margin:0px auto; display:block; margin-bottom:90px;}
+#rbm_welcomeModal .rbm_content{ background-image:url(./../images/wc.jpg); background-position:top center; background-repeat:no-repeat; background-color:#212226;}
+#welcome_logo { background: url(./../images/wc_logo.png); background-size: contain; width:300px; height:100px; position: relative; margin:0px auto; display:block; margin-bottom:90px;}
 #rbm_globalsettings .rbm_content label_a { min-width: 225px; width: 225px; }
 .general_hr { width: 100%; height: 1px; border: none; margin-bottom: 20px; margin-top: 0px; background: #3f444a; }
 .rbm_darkhalfbutton {  display: inline-block; width:195px; line-height: 32px; text-align: center;  color:#b7bbc0; font-size:13px; background: #3a3e44; margin-top:1px; box-sizing: border-box; cursor:pointer; box-sizing: border-box; border-radius: 4px}
@@ -180,15 +180,15 @@ mcg_guide_image { width: 280px; height: 160px; background-position: top left; ba
 #rb_tlw .mcg_guide_optionwrap input[type=radio] { width: 100%;height: 100%; opacity: 0; border-radius: 0px; box-shadow: none; outline: none; position: absolute;top: 0px;left: 0px;  z-index:10;}
 
 ._TPRB_ .my-color-field { display: none; }
-._TPRB_ .guide_slider { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_slider.jpg);}
-._TPRB_ .guide_scene { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_scene.jpg);}
-._TPRB_ .guide_carousel { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_carousel.jpg);}
-._TPRB_ .guide_auto { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_auto.jpg);}
-._TPRB_ .guide_fullwidth { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_fullwidth.jpg);}
-._TPRB_ .guide_fullscreen { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_fullscreen.jpg);}
-._TPRB_ .guide_autoresponsive { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_autoresponsive.jpg);}
-._TPRB_ .guide_intelligent { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_intelligent.jpg);}
-._TPRB_ .guide_manual { background-image: url(/wp-content/plugins/revslider/admin/assets/images/guide/guide_manual.jpg);}
+._TPRB_ .guide_slider { background-image: url(./../images/guide/guide_slider.jpg);}
+._TPRB_ .guide_scene { background-image: url(./../images/guide/guide_scene.jpg);}
+._TPRB_ .guide_carousel { background-image: url(./../images/guide/guide_carousel.jpg);}
+._TPRB_ .guide_auto { background-image: url(./../images/guide/guide_auto.jpg);}
+._TPRB_ .guide_fullwidth { background-image: url(./../images/guide/guide_fullwidth.jpg);}
+._TPRB_ .guide_fullscreen { background-image: url(./../images/guide/guide_fullscreen.jpg);}
+._TPRB_ .guide_autoresponsive { background-image: url(./../images/guide/guide_autoresponsive.jpg);}
+._TPRB_ .guide_intelligent { background-image: url(./../images/guide/guide_intelligent.jpg);}
+._TPRB_ .guide_manual { background-image: url(./../images/guide/guide_manual.jpg);}
 
 .rb-modal-wrapper[data-modal="rbm_layerimport"]    { z-index: 500005 }
 .rb-modal-wrapper[data-modal="rbm_decisionModal"]  { z-index: 1500010 }
@@ -405,11 +405,11 @@ mcg_guide_image { width: 280px; height: 160px; background-position: top left; ba
 
 ._TPRB_ .olibrary_item { width:267px; height: 210px; display: inline-block; margin: 0px 20px 20px 0px; background: #2a2c2f;position: relative; z-index: 20 }
 ._TPRB_ .olibrary_media_wrap { width: 267px; height: 150px; position: absolute; left:0px; top:0px;z-index:100; background-size: cover;background-position: center}
-._TPRB_ .olibrary_media_wrap.patternbg { background:url(/wp-content/plugins/revslider/admin/assets/images/light_pattern_2x.png); background-size:16px 16px; background-repeat:repeat;  }
+._TPRB_ .olibrary_media_wrap.patternbg { background:url(./../images/light_pattern_2x.png); background-size:16px 16px; background-repeat:repeat;  }
 ._TPRB_ .olibrary_media_wrap.obj_med_darkbg { background: #2a2c2f; }
 ._TPRB_ .ondarkpattern .olibrary_media_wrap,
-._TPRB_ .olibrary_media_wrap.darkpattern { background:url(/wp-content/plugins/revslider/admin/assets/images/dark_pattern_2x.png) !important; background-size:16px 16px; background-repeat:repeat; }
-._TPRB_ .olibrary_media_wrap.lightpattern { background:url(/wp-content/plugins/revslider/admin/assets/images/light_pattern_2x.png) !important; background-size:16px 16px; background-repeat:repeat; }
+._TPRB_ .olibrary_media_wrap.darkpattern { background:url(./../images/dark_pattern_2x.png) !important; background-size:16px 16px; background-repeat:repeat; }
+._TPRB_ .olibrary_media_wrap.lightpattern { background:url(./../images/light_pattern_2x.png) !important; background-size:16px 16px; background-repeat:repeat; }
 ._TPRB_ .olibrary_media_style { width: 100%; height: 100%; position: absolute; top: 0px; left: 0px; display: block; background-size: cover}
 ._TPRB_ .olibrary_content_wrap { width: 267px; height: 60px; position: absolute;top: 150px; left:0px; background: #2a2c2f; box-sizing: border-box; padding: 5px 10px 0px;transition: all 0.3s; z-index: 101;}
 ._TPRB_ .olibrary_content_left { padding-right: 55px; box-sizing: border-box; display: block; position: relative}
@@ -912,8 +912,8 @@ SHORTCODE GENERATOR STYLES
 .rb-basicforms onethird:last-child { padding-right: 0px; }
 
 .rb-basicforms label_icon,
-.rb-basicforms label_bigicon {background: url(/wp-content/plugins/revslider/admin/assets/images/UI-ICONS.png);  width: 30px;height: 30px; vertical-align: top; display: inline-block; color: transparent; background-size: 390px 420px; margin-right: 5px; }
-.rb-basicforms label_bigicon {background: url(/wp-content/plugins/revslider/admin/assets/images/UI-ICONS-BIG.png); width: 45px; height: 45px; background-size: 495px 225px; }
+.rb-basicforms label_bigicon {background: url(./../images/UI-ICONS.png);  width: 30px;height: 30px; vertical-align: top; display: inline-block; color: transparent; background-size: 390px 420px; margin-right: 5px; }
+.rb-basicforms label_bigicon {background: url(./../images/UI-ICONS-BIG.png); width: 45px; height: 45px; background-size: 495px 225px; }
 .rb-basicforms label_icon.singlerow,
 .rb-basicforms onelong .label_mi.material-icons:first-child,
 .rb-basicforms onelong label_icon:first-child { margin-left: 60px; }
@@ -1203,7 +1203,7 @@ span:not(.vc_btn-content) .revslider_vc_material-icons.material-icons:hover {
  - VISUAL COMPOSER STYLE CHANGE - 
 *************************************/
 .wpb_rev_slider .vc_general.vc_element-icon.icon-wpb-revslider,
-.vc_general.vc_element-icon.icon-wpb-revslider { background: url(/wp-content/plugins/revslider/admin/assets/images/rs6_number_2x.png); background-size: contain; }
+.vc_general.vc_element-icon.icon-wpb-revslider { background: url(./../images/rs6_number_2x.png); background-size: contain; }
 
 .wpb_element_rev_slider_admin_wrap {     background: #e3e5e8;text-align: center;line-height: 0;margin-top: 20px; }
 .wpb_element_rev_slider_admin_wrap  div {
@@ -1269,7 +1269,7 @@ span:not(.vc_btn-content) .revslider_vc_material-icons.material-icons:hover {
 
 /*._TPRB_ #rs_memarea,
 ._TPRB_ #rs_memarea:hover,
-._TPRB_ #rs_memarea:focus { width: 480px;height: 70px;background: url(/wp-content/plugins/revslider/admin/assets/images/membersarea.jpg);background-size: cover;right: 0px;top: 0px;}*/
+._TPRB_ #rs_memarea:focus { width: 480px;height: 70px;background: url(./../images/membersarea.jpg);background-size: cover;right: 0px;top: 0px;}*/
 
 
 /*._TPRB_ #rs_memarea:hover,*/
@@ -1288,8 +1288,8 @@ span:not(.vc_btn-content) .revslider_vc_material-icons.material-icons:hover {
 .eg-toolbox .material-icons.info { background-color:#3498db;}
 .eg-toolbox .material-icons.cancel { background-color:#ba0000}
 .eg-toolbox .material-icons.ok   { background-color:#00b900}
-#rbm_activate_slider.eg-toolbox { position:relative;cursor:default; max-width:480px; width: 480px; min-height: 480px;  background: url(/wp-content/plugins/revslider/admin/assets/images/modal_bg.jpg); background-size: cover; box-sizing: border-box; padding:45px 45px 150px;}
-#rbm_activate_slider_deco { cursor:default; width: 480px; height: 150px;  background: url(/wp-content/plugins/revslider/admin/assets/images/modal_asset2x.jpg); background-size: cover; box-sizing: border-box; position:absolute; bottom:0px;left:0px;}
+#rbm_activate_slider.eg-toolbox { position:relative;cursor:default; max-width:480px; width: 480px; min-height: 480px;  background: url(./../images/modal_bg.jpg); background-size: cover; box-sizing: border-box; padding:45px 45px 150px;}
+#rbm_activate_slider_deco { cursor:default; width: 480px; height: 150px;  background: url(./../images/modal_asset2x.jpg); background-size: cover; box-sizing: border-box; position:absolute; bottom:0px;left:0px;}
 .rbmas_title  { font-size: 25px; color: #fff; line-height: 30px; font-weight: 600; text-align: center; margin-bottom: 20px;  }
 .rbmas_benef { font-size: 14px; color: rgba(255,255,255,0.5); font-weight: 400; line-height: 20px; padding-left:100px;}
 .rbmas_benef i.material-icons { margin-right: 20px; font-size: 17px; line-height: inherit !important}

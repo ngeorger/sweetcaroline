@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios para SweetCaroline	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Sat, 11 Mar 2023 15:08:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

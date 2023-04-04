@@ -6,7 +6,7 @@ html,body{
 }html{	height:100%;	min-height: 100% !important;}
 body{	height:100%;	min-height: 100% !important;
 	background-color:transparent;
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/trans_tile.png');
+	background-image:url('./../images/trans_tile.png');
 	background-repeat:repeat;}
 
 .uc-preview-wrapper{

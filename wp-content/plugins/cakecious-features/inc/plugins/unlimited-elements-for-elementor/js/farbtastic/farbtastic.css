@@ -41,18 +41,18 @@
   height: 101px;
 }
 .farbtastic .wheel {
-  background: url(/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/js/farbtastic/wheel.png) no-repeat;
+  background: url(./wheel.png) no-repeat;
   width: 195px;
   height: 195px;
 }
 .farbtastic .overlay {
-  background: url(/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/js/farbtastic/mask.png) no-repeat;
+  background: url(./mask.png) no-repeat;
 }
 .farbtastic .marker {
   width: 17px;
   height: 17px;
   margin: -8px 0 0 -8px;
   overflow: hidden; 
-  background: url(/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/js/farbtastic/marker.png) no-repeat;
+  background: url(./marker.png) no-repeat;
 }
 

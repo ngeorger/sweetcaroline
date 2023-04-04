@@ -302,7 +302,7 @@
 	margin-left: 10px;
 	width: 17px;
 	height: 22px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/hand.png) no-repeat center center;
+	background: url(./../images/hand.png) no-repeat center center;
 	content: "";
 	z-index: 99999;
 	
@@ -312,7 +312,7 @@
 	
 	width: 18px;
 	height: 18px;
-	background: url(/wp-content/plugins/revslider/admin/assets/images/move.png) no-repeat center center;
+	background: url(./../images/move.png) no-repeat center center;
 	background-size: 18px 18px;
 	bottom: 3px;
 	
@@ -500,7 +500,7 @@
 	height: 16px;
 	display: inline-block;
 	background-size: 16px 16px;
-	background-image: url(/wp-content/plugins/revslider/admin/assets/images/return.png);
+	background-image: url(./../images/return.png);
 	background-repeat: no-repeat;
 	
 	position: absolute;

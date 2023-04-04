@@ -51,7 +51,7 @@
 	display:inline-block;
 	width:189px;
 	height:40px;
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/instagram-connect.svg');
+	background-image:url('./../images/instagram-connect.svg');
 	background-repeat:no-repeat;
 	boackground-size:contain;
 }
@@ -366,7 +366,7 @@
 .uc-params-panel .uc-icons-wrapper .uc-icon-edit {
 	width: 18px;
 	height: 18px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_edit.png');
+	background-image: url('./../images/icon_edit.png');
 	cursor: pointer;
 	display: inline-block;
 }
@@ -375,7 +375,7 @@
 	background-repeat:no-repeat;
 	width: 16px;
 	height: 16px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_plus_white_16.png');
+	background-image: url('./../images/icon_plus_white_16.png');
 	cursor: pointer;
 	display: inline-block;
 	opacity:0.5;
@@ -392,7 +392,7 @@
 .uc-params-panel .uc-icons-wrapper .uc-icon-delete {
 	width: 18px;
 	height: 18px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_delete.png');
+	background-image: url('./../images/icon_delete.png');
 	margin-left: 5px;
 	cursor: pointer;
 	display: inline-block;
@@ -518,7 +518,7 @@
 }
 
 .uc-table-params .uc-table-admin-label.label-active{
-	background-image:url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/eyes.png');
+	background-image:url('./../images/eyes.png');
 	background-position:center center;
 	background-repeat:no-repeat;
 }
@@ -656,20 +656,20 @@
 	float: left;
 }
 .uc-table-dropdown-items .uc-dropdown-item-delete {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_delete_small.png');
+	background-image: url('./../images/icon_delete_small.png');
 	margin-left: 4px;
 }
 .uc-table-dropdown-items .uc-dropdown-item-add {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_plus_small.png');
+	background-image: url('./../images/icon_plus_small.png');
 	margin-left: 8px;
 }
 .uc-table-dropdown-items .uc-dropdown-item-default {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_accept_disabled.png');
+	background-image: url('./../images/icon_accept_disabled.png');
 	background-repeat: no-repeat;
 	margin-left: 8px;
 }
 .uc-dropdown-item-default.uc-selected {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_accept.png');
+	background-image: url('./../images/icon_accept.png');
 }
 .uc-table-dropdown-items .uc-dropdown-item-handle {
 	height: 25px;
@@ -842,16 +842,16 @@
 	margin-top: 9px;
 }
 .uc-includes-icon.uc-includes-delete {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_delete_small.png');
+	background-image: url('./../images/icon_delete_small.png');
 	margin-left: 6px;
 }
 .uc-includes-icon.uc-includes-add {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_plus_small.png');
+	background-image: url('./../images/icon_plus_small.png');
 	margin-left: 8px;
 }
 .uc-includes-icon.uc-includes-settings {
 	margin-left: 6px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_settings16.png');
+	background-image: url('./../images/icon_settings16.png');
 }
 
 #uc-js-libraries{
@@ -963,35 +963,35 @@
 	margin-top: 2px;
 	width: 16px;
 	height: 16px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_file.png');
+	background-image: url('./../images/icon_file.png');
 	background-repeat: no-repeat;
 }
 .uc-filelist-icon.uc-icon-dir {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_folder.png');
+	background-image: url('./../images/icon_folder.png');
 }
 .uc-filelist-icon.uc-icon-php {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_php.png');
+	background-image: url('./../images/icon_php.png');
 }
 .uc-filelist-icon.uc-icon-image {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_picture.png');
+	background-image: url('./../images/icon_picture.png');
 }
 .uc-filelist-icon.uc-icon-js {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_script.png');
+	background-image: url('./../images/icon_script.png');
 }
 .uc-filelist-icon.uc-icon-zip {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_zip.png');
+	background-image: url('./../images/icon_zip.png');
 }
 .uc-filelist-icon.uc-icon-video {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_video.png');
+	background-image: url('./../images/icon_video.png');
 }
 .uc-filelist-icon.uc-icon-document {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_txt.png');
+	background-image: url('./../images/icon_txt.png');
 }
 .uc-filelist-icon.uc-icon-css {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_css.png');
+	background-image: url('./../images/icon_css.png');
 }
 .uc-filelist-icon.uc-icon-audio {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_music.png');
+	background-image: url('./../images/icon_music.png');
 }
 
 .uc-filelist-filename {
@@ -1041,7 +1041,7 @@
 .--------------FILELIST_THUMBS_VIEW----------- {}
 
 .uc-view-thumbs .uc-filelist-icon.uc-icon-dir {
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/icon_folder_45.png');
+	background-image: url('./../images/icon_folder_45.png');
 }
 .uc-view-thumbs .uc-filelist-item {
 	xbackground-color: red;
@@ -1228,7 +1228,7 @@
 	position:absolute;
 	right:0px;
 	top:7px;
-	background-image: url('/wp-content/plugins/cakecious-features/inc/plugins/unlimited-elements-for-elementor/images/loader.gif');
+	background-image: url('./../images/loader.gif');
 	background-repeat: no-repeat;
 }
 

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Galleta &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/galleta/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Sat, 27 Aug 2022 03:47:57 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Galleta &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Galletas Decorada</title>
-		<link>/product/galletas-decorada/</link>
+		<link>./../../../product/galletas-decorada/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 05:30:52 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4675</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4675</guid>
 
 					<description><![CDATA[Galletas de masa brisé, decorada con royal icing. Pedidos mínimo 12 unidades]]></description>
 										<content:encoded><![CDATA[<p>Galletas de masa brisé, decorada con royal icing.</p>
@@ -44,11 +44,11 @@
 			</item>
 		<item>
 		<title>Galleta de Coco</title>
-		<link>/product/galleta-de-coco/</link>
+		<link>./../../../product/galleta-de-coco/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 02:58:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4073</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4073</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -58,11 +58,11 @@
 			</item>
 		<item>
 		<title>Galleta de Chocolate</title>
-		<link>/product/galleta-de-chocolate/</link>
+		<link>./../../../product/galleta-de-chocolate/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 01:14:43 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4060</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4060</guid>
 
 					<description><![CDATA[Galleta mangueada sabor chocolate.]]></description>
 										<content:encoded><![CDATA[<p>Masa de galleta de mantequilla sabor a cacao mangueada.</p>
@@ -73,11 +73,11 @@
 			</item>
 		<item>
 		<title>Galletas halloween</title>
-		<link>/product/galletas-halloween/</link>
+		<link>./../../../product/galletas-halloween/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 02:00:24 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3540</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3540</guid>
 
 					<description><![CDATA[Galleta de masa sablée sabor a limón o vainilla decorada con glaseado de colores sabor limón]]></description>
 										<content:encoded><![CDATA[<p>Galletas temáticas, base brisée vainilla o chocolate.</p>
@@ -88,7 +88,7 @@
 			</item>
 		<item>
 		<title>Galletas de Pascua</title>
-		<link>/product/product-5/</link>
+		<link>./../../../product/product-5/index.html</link>
 		
 		<dc:creator><![CDATA[ngeorger]]></dc:creator>
 		<pubDate>Sat, 15 Aug 2020 06:56:42 +0000</pubDate>

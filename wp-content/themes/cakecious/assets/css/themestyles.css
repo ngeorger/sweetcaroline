@@ -796,7 +796,7 @@ body.admin-bar .main_header_area.navbar_fixed .main_menu_area {
 
 .main_menu_area .navbar.navbar-expand-lg .navbar-brand:after {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/logo-circle-2.png) no-repeat scroll center center;
+  background: url(./../img/logo-circle-2.png) no-repeat scroll center center;
   height: 201px;
   width: 209px;
   position: absolute;
@@ -1012,7 +1012,7 @@ body.hdr-header5 .logo.navbar-brand img + img {
 /* din - applying graphic to header. */
 .main_menu_two:before {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/menu-draw.png) repeat-x scroll center center;
+  background: url(./../img/menu-draw.png) repeat-x scroll center center;
   height: 19px;
   width: 100%;
   position: absolute;
@@ -2356,7 +2356,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 }
 
 .five_header .main_menu_two:before {
-  background: url(/wp-content/themes/cakecious/assets/img/menu-draw-five.png) no-repeat scroll center center;
+  background: url(./../img/menu-draw-five.png) no-repeat scroll center center;
   background-size: cover;
   height: 32px;
   width: 100%;
@@ -2650,7 +2650,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 /* Banner Area css
 ============================================================================================ */
 .banner_area {
-  background: url(/wp-content/themes/cakecious/assets/img/banner/banner-bg.jpg) no-repeat scroll center center;
+  background: url(./../img/banner/banner-bg.jpg) no-repeat scroll center center;
   background-size: cover;
 }
 
@@ -2790,7 +2790,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 
 .welcome_bakery_area:before {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/w-left-techture.png) no-repeat scroll center center;
+  background: url(./../img/w-left-techture.png) no-repeat scroll center center;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -2802,7 +2802,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 
 .welcome_bakery_area:after {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/w-right-techture.png) no-repeat scroll center center;
+  background: url(./../img/w-right-techture.png) no-repeat scroll center center;
   position: absolute;
   right: 0px;
   top: 0px;
@@ -3058,7 +3058,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 /* Special Recipe Area css
 ============================================================================================ */
 .special_recipe_area {
-  background: url(/wp-content/themes/cakecious/assets/img/special-recipe-bg.jpg) no-repeat fixed center center;
+  background: url(./../img/special-recipe-bg.jpg) no-repeat fixed center center;
   background-size: cover;
   padding: 85px 0px;
   position: relative;
@@ -3141,7 +3141,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 ============================================================================================ */
 .error_area {
   text-align: center;
-  background: url(/wp-content/themes/cakecious/assets/img/error-bg.jpg) repeat scroll center center;
+  background: url(./../img/error-bg.jpg) repeat scroll center center;
   background-size: cover;
   min-height: 1034px;
   display: -webkit-box;
@@ -3375,7 +3375,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 
 .faq_form_area:before {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/faq-form-right.png) no-repeat scroll center center;
+  background: url(./../img/faq-form-right.png) no-repeat scroll center center;
   width: 545px;
   height: 709px;
   position: absolute;
@@ -3528,7 +3528,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 
 .discover_menu_area:before {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/menu-left.png) no-repeat scroll center center;
+  background: url(./../img/menu-left.png) no-repeat scroll center center;
   width: 260px;
   height: 480px;
   position: absolute;
@@ -3542,7 +3542,7 @@ body.admin-bar .box_header_four.navbar_fixed {
 
 .discover_menu_area:after {
   content: "";
-  background: url(/wp-content/themes/cakecious/assets/img/menu-right.png) no-repeat scroll center center;
+  background: url(./../img/menu-right.png) no-repeat scroll center center;
   width: 260px;
   height: 640px;
   opacity: .2;
@@ -5929,7 +5929,7 @@ body.ckc-legacy .widget > ul > li,
 /* Bakery Video Area css
 ============================================================================================ */
 .bakery_video_area {
-  background: url(/wp-content/themes/cakecious/assets/img/video/video-1.jpg) no-repeat scroll center center;
+  background: url(./../img/video/video-1.jpg) no-repeat scroll center center;
   background-size: cover;
   padding: 120px 0px;
 }
@@ -6147,7 +6147,7 @@ body.ckc-legacy .widget > ul > li,
 .coming_soon {
   position: relative;
   overflow: hidden;
-  background: url("/wp-content/themes/cakecious/assets/img/comming-bg.jpg") no-repeat scroll center 0;
+  background: url("./../img/comming-bg.jpg") no-repeat scroll center 0;
   background-size: cover;
   min-height: 100vh;
   padding: 160px 0px;
@@ -6173,7 +6173,7 @@ body.ckc-legacy .widget > ul > li,
 * 19 coming soon styles
 ***************************/
 .coming-soon-area {
-  background: url("/wp-content/themes/cakecious/assets/img/comming-bg.jpg") no-repeat scroll center 0;
+  background: url("./../img/comming-bg.jpg") no-repeat scroll center 0;
   background-size: cover;
   padding-bottom: 280px;
   padding-top: 280px;
@@ -6454,7 +6454,7 @@ body.ckc-legacy .widget > ul > li,
 /* Product Area css
 ============================================================================================ */
 .product_area {
-  background: url(/wp-content/themes/cakecious/assets/img/shop-page-bg.png) repeat scroll center center;
+  background: url(./../img/shop-page-bg.png) repeat scroll center center;
 }
 
 .product_inner_row {
@@ -8948,7 +8948,7 @@ body.no-ttfmrk.error404 .main_header_area + section{ margin: 0;}
 
 .scrollup {
     background-color: #f195b2;
-    background-image: url("/wp-content/themes/cakecious/assets/img/to-top.png");
+    background-image: url("./../img/to-top.png");
     background-position: center center;
     background-repeat: no-repeat;
     bottom: 15px;

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Masa horneada &#8211; SweetCaroline</title>
-	<atom:link href="/product-tag/masa-horneada/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Sat, 27 Aug 2022 03:47:04 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Masa horneada &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Muffins Chocolate</title>
-		<link>/product/muffins-chocolate/</link>
+		<link>./../../../product/muffins-chocolate/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 06:37:15 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4686</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4686</guid>
 
 					<description><![CDATA[Panecillo de suave dulzor, generalmente relleno con frutas, es de origen inglés, se sabe de su existencia desde el año 1700 aproximadamente, este panecillo tiene su versión salada y relleno con vegetales, usualmente se consumían al desayuno.]]></description>
 										<content:encoded><![CDATA[<p>Pequeño panecillo de masa suavemente endulzada horneada con arándanos</p>
@@ -44,11 +44,11 @@
 			</item>
 		<item>
 		<title>Galleta mangueda</title>
-		<link>/product/galleta-mangueda/</link>
+		<link>./../../../product/galleta-mangueda/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Fri, 28 Jan 2022 02:22:34 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4071</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4071</guid>
 
 					<description><![CDATA[masa mangueada en base a mantequilla]]></description>
 										<content:encoded><![CDATA[<p>Sabrosa masa en base a mantequilla, mangueada y horneada.</p>
@@ -59,11 +59,11 @@
 			</item>
 		<item>
 		<title>Queso Aceituna</title>
-		<link>/product/queso-aceituna/</link>
+		<link>./../../../product/queso-aceituna/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Wed, 29 Dec 2021 00:12:58 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3805</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3805</guid>
 
 					<description><![CDATA[Empanada Queso Aceituna]]></description>
 										<content:encoded><![CDATA[<p>Sabrosa masa horneada rellena con queso mantecoso y aceitunas picadas.</p>
@@ -74,11 +74,11 @@
 			</item>
 		<item>
 		<title>Queso Camarón</title>
-		<link>/product/queso-camaron/</link>
+		<link>./../../../product/queso-camaron/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Wed, 29 Dec 2021 00:11:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3804</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3804</guid>
 
 					<description><![CDATA[Empanada]]></description>
 										<content:encoded><![CDATA[<p>Sabrosa masa horneada rellena con queso mantecoso y camarones salteados en mantequilla.</p>
@@ -89,11 +89,11 @@
 			</item>
 		<item>
 		<title>Muffins arándano</title>
-		<link>/product/muffins-arandano/</link>
+		<link>./../../../product/muffins-arandano/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Sat, 04 Sep 2021 23:28:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3759</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3759</guid>
 
 					<description><![CDATA[Panecillo de suave dulzor, generalmente relleno con frutas, es de origen inglés, se sabe de su existencia desde el año 1700 aproximadamente, este panecillo tiene su versión salada y relleno con vegetales, usualmente se consumían al desayuno.]]></description>
 										<content:encoded><![CDATA[<p>Pequeño panecillo de masa suavemente endulzada horneada con arándanos</p>

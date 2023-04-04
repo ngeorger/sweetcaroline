@@ -6,7 +6,7 @@
 .settings-error.notice{display:block;}
 
 .wpb-layout-element-button .tt-vc-block {
-	background-image: url(/wp-content/themes/cakecious/assets/css/iconVC.png);
+	background-image: url(./iconVC.png);
 	background-size: cover;
 }
 

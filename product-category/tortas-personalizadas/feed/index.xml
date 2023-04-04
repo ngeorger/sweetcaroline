@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tortas Personalizadas &#8211; SweetCaroline</title>
-	<atom:link href="/product-category/tortas-personalizadas/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Pastelería boutique, producción de calidad y tendencias</description>
 	<lastBuildDate>Tue, 06 Sep 2022 21:08:12 +0000</lastBuildDate>
 	<language>es-CL</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
 	<title>Tortas Personalizadas &#8211; SweetCaroline</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Torta Suculentas</title>
-		<link>/product/torta-suculentas/</link>
+		<link>./../../../product/torta-suculentas/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 06:12:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4682</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4682</guid>
 
 					<description><![CDATA[Torta en bizcocho de chocolate cubierta con ganache bitter y decoración de diseño de suculentas y cactus en crema de mantequilla.
 
@@ -47,11 +47,11 @@
 			</item>
 		<item>
 		<title>Bombera</title>
-		<link>/product/bombera/</link>
+		<link>./../../../product/bombera/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 20:42:56 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4120</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4120</guid>
 
 					<description><![CDATA[Bizcocho de chocolate rellena con ganache de chocolate bitter y oreo molida. Cubierta de butter cream sabor frutilla colorizada. Modelado de bombera en fondant.]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho de chocolate rellena con ganache de chocolate bitter y oreo molida. Cubierta de butter cream sabor frutilla colorizada. Modelado de bombera en fondant.</p>
@@ -62,11 +62,11 @@
 			</item>
 		<item>
 		<title>Hada</title>
-		<link>/product/hada/</link>
+		<link>./../../../product/hada/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 19:57:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4118</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4118</guid>
 
 					<description><![CDATA[Bizcocho vainilla, relleno con ganache de chocolate blanco saborizado con pulpa de frutillas, cubierto con buttercream colorizado y aplicaciones en fondant, hada modelada en fondant.]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho vainilla, relleno con ganache de chocolate blanco saborizado con pulpa de frutillas, cubierto con buttercream colorizado y aplicaciones en fondant, hada modelada en fondant.</p>
@@ -77,11 +77,11 @@
 			</item>
 		<item>
 		<title>Sol y luna</title>
-		<link>/product/personalizada-sol-y-luna/</link>
+		<link>./../../../product/personalizada-sol-y-luna/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 19:23:14 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=4116</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4116</guid>
 
 					<description><![CDATA[Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.]]></description>
 										<content:encoded><![CDATA[<p>Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.</p>
@@ -92,11 +92,11 @@
 			</item>
 		<item>
 		<title>Red Velvet</title>
-		<link>/product/red-velvet/</link>
+		<link>./../../../product/red-velvet/index.html</link>
 		
 		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 00:34:29 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=3538</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=3538</guid>
 
 					<description><![CDATA[Valor no incluye decoraciones de flores, precio separado]]></description>
 										<content:encoded><![CDATA[<p>Bizcocho red velvet, ganache de chocolate bitter y mermeladad e frutilla, cubierta buttercream, decoración de flores amapolas en fondant.</p>
@@ -107,7 +107,7 @@
 			</item>
 		<item>
 		<title>Mariposas</title>
-		<link>/product/product-3/</link>
+		<link>./../../../product/product-3/index.html</link>
 		
 		<dc:creator><![CDATA[ngeorger]]></dc:creator>
 		<pubDate>Thu, 13 Aug 2020 06:56:45 +0000</pubDate>

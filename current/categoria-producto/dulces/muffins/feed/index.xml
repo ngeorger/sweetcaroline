@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Muffins &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Wed, 28 Feb 2024 23:51:03 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Muffins &#8211; SweetCaroline</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Muffins Chocolate</title>
+		<link>./../../../../nuestros-productos/dulces/muffins/muffins-chocolate/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 06:37:15 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=4686</guid>
+
+					<description><![CDATA[Panecillo de suave dulzor, generalmente relleno con frutas, es de origen inglés, se sabe de su existencia desde el año 1700 aproximadamente, este panecillo tiene su versión salada y relleno con vegetales, usualmente se consumían al desayuno.]]></description>
+										<content:encoded><![CDATA[<p>Pequeño panecillo de masa suavemente endulzada horneada con arándanos</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Muffins arándano</title>
+		<link>./../../../../nuestros-productos/dulces/muffins/muffins-arandano/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Sat, 04 Sep 2021 23:28:48 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=3759</guid>
+
+					<description><![CDATA[Panecillo de suave dulzor, generalmente relleno con frutas, es de origen inglés, se sabe de su existencia desde el año 1700 aproximadamente, este panecillo tiene su versión salada y relleno con vegetales, usualmente se consumían al desayuno.]]></description>
+										<content:encoded><![CDATA[<p>Pequeño panecillo de masa suavemente endulzada horneada con arándanos</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

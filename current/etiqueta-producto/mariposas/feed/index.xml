@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mariposas &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Wed, 20 Mar 2024 14:28:08 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Mariposas &#8211; SweetCaroline</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mariposas</title>
+		<link>./../../../nuestros-productos/tortas/tortas-personalizadas/mariposas/index.html</link>
+		
+		<dc:creator><![CDATA[ngeorger]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2020 06:56:45 +0000</pubDate>
+				<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/?product=hoodie-with-zipper</guid>
+
+					<description><![CDATA[Torta]]></description>
+										<content:encoded><![CDATA[<p>Torta con bizcocho de vainilla, rellena con mermelada de frambuesa y ganache de chocolate, cubierta con buttercream y decorada con figuras de fondant.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

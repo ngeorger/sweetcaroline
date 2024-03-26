@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cacao &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Wed, 28 Feb 2024 23:47:26 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Cacao &#8211; SweetCaroline</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Choco Amor</title>
+		<link>./../../../nuestros-productos/tortas/tortas-estandar/choco-amor-2/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 21:31:20 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=4123</guid>
+
+					<description><![CDATA[Bizcocho de cacao, remojado con alcohol, relleno de frambuesa, ganache de chocolate y una fina capa de manjar, cubierta de ganache de chocolate bitter.
+
+Torta 18 cm de diámetro, 12 cm de alto aproximadamente
+
+Rendimiento de 15 a 20 personas]]></description>
+										<content:encoded><![CDATA[<p>Bizcocho de cacao, remojado con alcohol, relleno de frambuesa, ganache de chocolate y una fina capa de manjar, cubierta de ganache de chocolate bitter.</p>
+<p>Torta 18 cm de diámetro, 12 cm de alto aproximadamente</p>
+<p>Rendimiento de 15 a 20 personas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

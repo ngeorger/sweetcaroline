@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fiestas patria &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Fri, 01 Mar 2024 20:59:38 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Fiestas patria &#8211; SweetCaroline</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dieciochero cupcake</title>
+		<link>./../../../nuestros-productos/dulces/cupcakes/tricolor/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 05:48:24 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=4704</guid>
+
+					<description><![CDATA[Suave bizcochito de vainilla relleno y con topping de crema chantilly colorizada y chispas tricolores.]]></description>
+										<content:encoded><![CDATA[Suave bizcochito de vainilla relleno y con topping de crema chantilly colorizada y chispas tricolores.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

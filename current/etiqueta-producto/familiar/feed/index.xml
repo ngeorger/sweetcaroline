@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Familiar &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Tue, 19 Mar 2024 01:29:38 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Familiar &#8211; SweetCaroline</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tarta de manzana</title>
+		<link>./../../../nuestros-productos/tarta/tarta-de-manzana/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2024 01:29:37 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5130</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tarta de Limón</title>
+		<link>./../../../nuestros-productos/tarta/tarta-de-limon/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2024 01:27:52 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5129</guid>
+
+					<description><![CDATA[Tarta de masa sablée rellena con crema de limón receta tradicional, cubierta con merengue suizo, zeste de limón y hojas de menta.]]></description>
+										<content:encoded><![CDATA[<p>Formato de venta:</p>
+<p>Tamaño familiar 22 cm</p>
+<p>Trozo individual de 1/8</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tarta de Chocolate</title>
+		<link>./../../../nuestros-productos/sin-categoria/tarta-de-chocolate/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2024 01:17:32 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5124</guid>
+
+					<description><![CDATA[Tarta de masa quebrada rellena con ganache de chocolate de leche y baño espejo de chocolate bitter, decorada con pequeñas láminas de oro comestible.]]></description>
+										<content:encoded><![CDATA[<p>Formato de venta</p>
+<p>Tarta completa de 20 cm</p>
+<p>trozos de 1/6 del diámetro.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

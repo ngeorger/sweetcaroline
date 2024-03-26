@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Personalizada &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Wed, 20 Mar 2024 14:28:08 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Personalizada &#8211; SweetCaroline</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Moana</title>
+		<link>./../../../nuestros-productos/tortas/tortas-personalizadas/moana/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2024 04:26:30 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5149</guid>
+
+					<description><![CDATA[Torta en bzcocho de chocolate rlleno con mermelada de frambuesa y manjar.]]></description>
+										<content:encoded><![CDATA[Torta en bzcocho de chocolate rlleno con mermelada de frambuesa y manjar.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Escandalosos</title>
+		<link>./../../../nuestros-productos/tortas/tortas-personalizadas/osos-escandalosos/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2024 03:30:18 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5145</guid>
+
+					<description><![CDATA[Bizcocho de chocolate relleno con ganache de chocolate de leche, una delgada capa de ganache blanca y cubierta en fondant, figuritas modeladas en fondant.]]></description>
+										<content:encoded><![CDATA[Bizcocho de chocolate relleno con ganache de chocolate de leche, una delgada capa de ganache blanca y cubierta en fondant, figuritas modeladas en fondant.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sol y luna</title>
+		<link>./../../../nuestros-productos/tortas/tortas-personalizadas/personalizada-sol-y-luna/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 19:23:14 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=4116</guid>
+
+					<description><![CDATA[Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.]]></description>
+										<content:encoded><![CDATA[<p>Torta de bizcocho con vainilla de madagascar, rellena con crema de mantequilla saborizada con mango, cubierta con buttercream sabor vainilla colorizado en azules, adornos en perlas y estrellas doradas, topping sol y luna en fondant pintado en dorado y carta de tarot pintada a mano.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mariposas</title>
+		<link>./../../../nuestros-productos/tortas/tortas-personalizadas/mariposas/index.html</link>
+		
+		<dc:creator><![CDATA[ngeorger]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2020 06:56:45 +0000</pubDate>
+				<guid isPermaLink="false">https://woocommercecore.mystagingwebsite.com/?product=hoodie-with-zipper</guid>
+
+					<description><![CDATA[Torta]]></description>
+										<content:encoded><![CDATA[<p>Torta con bizcocho de vainilla, rellena con mermelada de frambuesa y ganache de chocolate, cubierta con buttercream y decorada con figuras de fondant.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

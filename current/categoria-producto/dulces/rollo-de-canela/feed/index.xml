@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rollo de Canela &#8211; SweetCaroline</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Pastelería boutique, producción de calidad y tendencias</description>
+	<lastBuildDate>Wed, 20 Mar 2024 13:54:34 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2021/08/cropped-icono-web-1-32x32.png</url>
+	<title>Rollo de Canela &#8211; SweetCaroline</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rollo de Canela Pistacho</title>
+		<link>./../../../../nuestros-productos/dulces/rollo-de-canela/rollo-de-canela-pistacho/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2024 13:52:17 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5198</guid>
+
+					<description><![CDATA[Rollo de masa sabor canela y top de manjar y pistachos.]]></description>
+										<content:encoded><![CDATA[Rollo de masa sabor canela y top de manjar y pistachos.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rollo de Canela tradicional</title>
+		<link>./../../../../nuestros-productos/dulces/rollo-de-canela/rollo-de-canela-tradicional/index.html</link>
+		
+		<dc:creator><![CDATA[SweetCaroline]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2024 13:43:15 +0000</pubDate>
+				<guid isPermaLink="false">https://sweetcaroline.cl/?post_type=product&#038;p=5194</guid>
+
+					<description><![CDATA[Sabrosa masa con leudado tradicional, rellenocon mantequilla azúcar morena, glaseado tradicional de queso crema y mantequilla.]]></description>
+										<content:encoded><![CDATA[<p>Los rollos de  canela son pasteles tradicionales de suecia, incluso el 4 de octubre se celebra el día de este pastel.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

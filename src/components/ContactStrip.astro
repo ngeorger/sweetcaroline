@@ -1,0 +1,76 @@
+---
+import Icon from './Icon.astro';
+import { SITE, HOURS, ADDRESS, telLink, mailtoLink, whatsappLink } from '../lib/site';
+---
+
+<section aria-labelledby="contacto-strip" class="bg-brand-50">
+  <div class="mx-auto max-w-6xl px-4 py-12">
+    <h2 id="contacto-strip" class="text-brand-900 text-2xl font-bold sm:text-3xl">
+      Visítanos o haz tu pedido
+    </h2>
+
+    <div class="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      <div>
+        <h3 class="text-brand-900 flex items-center gap-2 font-bold">
+          <Icon name="phone" size={18} class="text-brand-500" />
+          <span>Contacto</span>
+        </h3>
+        <ul class="text-ink-700 mt-3 space-y-1">
+          <li><a href={telLink} class="hover:text-brand-700 hover:underline">{SITE.phone}</a></li>
+          <li><a href={mailtoLink} class="hover:text-brand-700 hover:underline">{SITE.email}</a></li>
+          <li>
+            <a
+              href={whatsappLink('Hola, quisiera hacer una consulta.')}
+              class="hover:text-brand-700 inline-flex items-center gap-2 hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Icon name="whatsapp" size={16} />
+              <span>WhatsApp</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-brand-900 flex items-center gap-2 font-bold">
+          <Icon name="clock" size={18} class="text-brand-500" />
+          <span>Horario de atención</span>
+        </h3>
+        <dl class="mt-3 space-y-2">
+          {
+            HOURS.map((entry) => (
+              <div>
+                <dt class="text-ink-900 text-sm font-semibold uppercase tracking-wide">{entry.label}</dt>
+                <dd class="text-ink-700">{entry.display}</dd>
+              </div>
+            ))
+          }
+        </dl>
+      </div>
+
+      <div>
+        <h3 class="text-brand-900 flex items-center gap-2 font-bold">
+          <Icon name="map-pin" size={18} class="text-brand-500" />
+          <span>Ubicación</span>
+        </h3>
+        <p class="text-ink-700 mt-3">
+          Tienda y taller de producción<br />
+          {ADDRESS.street}<br />
+          {ADDRESS.commune}, {ADDRESS.city}
+        </p>
+        <p class="mt-3">
+          <a
+            href={SITE.maps}
+            class="text-brand-700 inline-flex items-center gap-1 font-semibold hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span>Ver en Google Maps</span>
+            <Icon name="chevron-right" size={16} />
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

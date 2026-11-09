@@ -1,0 +1,14 @@
+{
+  "name": "Moon Cake",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Este pastelito chino es una masa horneada y rellena con una molienda de frutos secos y semillas.\n\nVenta en local por unidad, para pedidos mínimo de 6 unidades",
+  "image": "products/moon-cake-pastel-de-luna",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/moon-cake-pastel-de-luna/"
+}

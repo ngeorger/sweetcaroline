@@ -1,0 +1,125 @@
+---
+import Icon from './Icon.astro';
+import { getImage } from '../lib/images';
+import { NAV_LINKS, withBase } from '../data/navigation';
+
+const logo = getImage('brand/logo-blanco');
+// `Astro.url.pathname` includes the deployment base, so compare the raw
+// (base-less) nav paths against a pathname with the base stripped off.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const current = Astro.url.pathname.slice(base.length) || '/';
+
+/** A nav item is current when the path starts with it (and it is not home). */
+function isCurrent(href: string): boolean {
+  return href === '/' ? current === '/' : current.startsWith(href);
+}
+---
+
+<header class="bg-brand-500 text-white">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+    <a href={withBase('/')} class="flex shrink-0 items-center gap-2" aria-label="Sweet Caroline — inicio">
+      {
+        logo ? (
+          <img
+            src={logo.src}
+            width={logo.width}
+            height={logo.height}
+            alt="Sweet Caroline — pastelería y cafetería"
+            class="h-14 w-auto sm:h-16"
+            loading="eager"
+            decoding="async"
+          />
+        ) : (
+          <span class="text-xl font-extrabold">Sweet Caroline</span>
+        )
+      }
+    </a>
+
+    <nav aria-label="Navegación principal" class="hidden lg:block">
+      <ul class="flex items-center gap-6">
+        {
+          NAV_LINKS.map((link) => (
+            <li>
+              <a
+                href={withBase(link.href)}
+                aria-current={isCurrent(link.href) ? 'page' : undefined}
+                class:list={[
+                  'text-sm font-semibold uppercase tracking-wider transition-colors hover:underline hover:underline-offset-8',
+                  // The current page is marked by an underline plus
+                  // `aria-current`, not by a lighter colour: brand-100 on
+                  // brand-500 measures 2.68:1 and fails WCAG AA.
+                  isCurrent(link.href) && 'underline underline-offset-8',
+                ]}
+              >
+                {link.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <button
+      type="button"
+      id="nav-toggle"
+      class="inline-flex items-center gap-2 rounded-md border border-white/40 px-3 py-2 text-sm font-semibold lg:hidden"
+      aria-expanded="false"
+      aria-controls="mobile-nav"
+    >
+      <Icon name="menu" size={18} />
+      <span>Menú</span>
+    </button>
+  </div>
+
+  <nav id="mobile-nav" aria-label="Navegación principal móvil" class="hidden lg:hidden" hidden>
+    <ul class="mx-auto max-w-6xl space-y-1 px-4 pb-4">
+      {
+        NAV_LINKS.map((link) => (
+          <li>
+            <a
+              href={withBase(link.href)}
+              aria-current={isCurrent(link.href) ? 'page' : undefined}
+              class:list={[
+                'block rounded-md px-3 py-2 text-sm font-semibold uppercase tracking-wider hover:bg-white/15',
+                isCurrent(link.href) && 'bg-white/15',
+              ]}
+            >
+              {link.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
+</header>
+
+<script>
+  const toggle = document.getElementById('nav-toggle');
+  const panel = document.getElementById('mobile-nav');
+
+  if (toggle && panel) {
+    const setOpen = (open: boolean) => {
+      toggle.setAttribute('aria-expanded', String(open));
+      panel.hidden = !open;
+      panel.classList.toggle('hidden', !open);
+    };
+
+    toggle.addEventListener('click', () => {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+
+    // Close on Escape and when the viewport grows past the mobile breakpoint,
+    // so the panel cannot be left open behind the desktop nav.
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') {
+        setOpen(false);
+        toggle.focus();
+      }
+    });
+
+    const desktop = window.matchMedia('(min-width: 1024px)');
+    desktop.addEventListener('change', (event) => {
+      if (event.matches) setOpen(false);
+    });
+  }
+</script>

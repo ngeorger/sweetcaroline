@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------------------
+   Sweet Caroline design tokens
+
+   Every brand value below was extracted from the existing site's compiled
+   dynamic CSS (theme `cakecious`, WordPress at old.sweetcaroline.cl):
+     #e6007e  .cakecious-header-main-bar-inner background, body color
+     #b20065  .shopping-cart-count / hover + focus accents
+     #1f7691  .has-cakecious-color-4 (hero subtitle)
+     #f2b8ca  footer secondary text (contrast 2.68:1 on magenta — replaced)
+   Only `brand-50` and `brand-900` are new; they exist to provide an
+   accessible surface and foreground for the magenta identity.
+--------------------------------------------------------------------------- */
+@theme {
+  --color-brand-50: #fff0f7;
+
+  /* ---------------------------------------------------------------------
+     These two exist for BORDERS AND SURFACES ONLY.
+
+     Both fail WCAG AA as text colours:
+       #f2b8ca on #e6007e -> 2.68:1
+       #f195b2 on #ffffff -> 2.17:1
+     The original WordPress theme used exactly this pairing for its footer
+     copy, which is one of the defects this rebuild fixes. They are named
+     `-line-` rather than `-100`/`-300` so that reaching for one as a text
+     colour reads as obviously wrong. Use `brand-500` (4.50:1 on white),
+     `brand-700` (6.82:1) or `brand-900` (11.00:1) for text.
+     --------------------------------------------------------------------- */
+  --color-brand-line-soft: #f2b8ca;
+  --color-brand-line-strong: #f195b2;
+
+  --color-brand-500: #e6007e; /* primary */
+  --color-brand-700: #b20065;
+  --color-brand-900: #7a0043;
+
+  --color-accent-500: #1f7691;
+
+  --color-ink-900: #242424;
+  --color-ink-700: #3f3f3f;
+  --color-ink-600: #5c5c5c;
+
+  --font-display: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+
+  /* Section rhythm, so spacing stays consistent across pages. */
+  --spacing-section: 4.5rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    color: var(--color-ink-900);
+    font-family: var(--font-body);
+    /* 16px base — the old theme rendered body copy at 12px. */
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    line-height: 1.15;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* The old theme removed focus outlines entirely. */
+  :focus-visible {
+    outline: 3px solid var(--color-brand-700);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Scalloped header edge — the brand's signature detail, carried over from
+     the WordPress theme.
+
+     A fixed-size repeating tile keeps the scallops perfectly circular at any
+     viewport width. A stretched inline SVG path would squash them into
+     ellipses on wide screens, and a radial-gradient depends on the element's
+     box for its radii, so neither is usable here. The tile is a 48x24 SVG
+     holding one magenta half-circle hanging from the top edge. */
+  .scallop-edge {
+    height: 24px;
+    background-color: #fff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='24' viewBox='0 0 48 24'%3E%3Cpath fill='%23e6007e' d='M0 0h48v1.6a24 24 0 0 1-48 0z'/%3E%3C/svg%3E");
+    background-repeat: repeat-x;
+    background-size: 48px 24px;
+    background-position: top left;
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Sweet Caroline",
+  "tagline": "Pastelería fina y chocolatería",
+  "description": "Taller de pastelería y cafetería en San Joaquín, Santiago. Pastelería fina, tortas a pedido, chocolatería y café de grano.",
+  "phone": "+56 9 9690 6461",
+  "phoneHref": "+56996906461",
+  "whatsapp": "56996906461",
+  "email": "contacto@sweetcaroline.cl",
+  "instagram": "https://www.instagram.com/sweetcarolinechile/",
+  "maps": "https://maps.sweetcaroline.cl",
+  "mapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.358716023962!2d-70.6158889641524!3d-33.51077115745839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d07167c6e8cd%3A0xa34e215d4dc664a7!2sEstadio%206027%2C%20San%20Joaqu%C3%ADn%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses!2scl!4v1662860891957!5m2!1ses!2scl",
+  "address": {
+    "street": "Av. Estadio 6027",
+    "commune": "San Joaquín",
+    "city": "Santiago",
+    "region": "Región Metropolitana",
+    "country": "CL",
+    "latitude": -33.51077115745839,
+    "longitude": -70.6158889641524
+  },
+  "hours": [
+    {
+      "label": "Tienda y terraza",
+      "schemaDays": [
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "16:30",
+      "closes": "21:30",
+      "display": "Viernes a domingo, 16.30 a 21.30 hrs."
+    },
+    {
+      "label": "Pedidos para retirar",
+      "schemaDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "10:00",
+      "closes": "20:00",
+      "display": "Lunes a domingo, 10.00 a 20.00 hrs."
+    }
+  ],
+  "copyright": "© 2026 Sweet Caroline. Algunos derechos reservados."
+}

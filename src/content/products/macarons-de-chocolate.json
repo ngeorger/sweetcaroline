@@ -1,0 +1,14 @@
+{
+  "name": "Macarons",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Dos suaves discos de merengue de almendra unidos por un cremoso relleno de ganache de chocolate bitter o buttercream saborizada. Crujiente por fuera, tierno por dentro. Un clásico francés!",
+  "image": "products/macarons-de-chocolate",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/macarons-de-chocolate/"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Canelé",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "individuales"
+  ],
+  "description": "Pequeño pastelito tradicional francés de corteza crujiente y acaramelado con su centro es suave, sabor a vainilla y un toque de ron.",
+  "image": "products/canele",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/canele/"
+}

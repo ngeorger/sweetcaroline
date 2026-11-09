@@ -1,0 +1,13 @@
+{
+  "name": "Red Velvet",
+  "sections": [
+    "productos"
+  ],
+  "categories": [
+    "tortas"
+  ],
+  "description": "Valor no incluye decoraciones de flores, precio separado",
+  "image": "products/red-velvet",
+  "subgroup": "personalizadas",
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tortas/tortas-personalizadas/red-velvet/"
+}

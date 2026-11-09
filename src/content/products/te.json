@@ -1,0 +1,13 @@
+{
+  "name": "Té",
+  "sections": [
+    "cafeteria"
+  ],
+  "categories": [
+    "bebestibles"
+  ],
+  "description": "Té negro de hoja remojado en agua caliente con o sin especias.",
+  "image": "products/te",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/sin-categoria/cafeteria/bebidas/te/"
+}

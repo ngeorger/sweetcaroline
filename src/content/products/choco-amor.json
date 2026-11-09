@@ -1,0 +1,13 @@
+{
+  "name": "Sacher",
+  "sections": [
+    "productos"
+  ],
+  "categories": [
+    "tortas"
+  ],
+  "description": "Bizcocho de chocolate remojado con almibar de ron, relleno con mermelada de damasco, cubierta con ganache de chocolate, decorada con pequeños trozos de oro comestible y pequeñas perlas de azúcar diamantadas color dorado.\n\nTorta 18 cm de diámetro, 12 cm de alto aproximadamente\n\nRendimiento de 15 a 20 personas",
+  "image": "products/choco-amor",
+  "subgroup": "estandar",
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tortas/tortas-estandar/choco-amor/"
+}

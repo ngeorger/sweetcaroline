@@ -1,0 +1,15 @@
+{
+  "name": "Tarta de manzana",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "tartas",
+    "por-trozo"
+  ],
+  "description": "",
+  "image": "products/tarta-de-manzana",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tartas/tarta-de-manzana/"
+}

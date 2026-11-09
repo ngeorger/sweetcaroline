@@ -1,0 +1,23 @@
+---
+import type { Breadcrumb } from '../lib/seo';
+import Breadcrumbs from './Breadcrumbs.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  eyebrow?: string;
+  trail?: Breadcrumb[];
+}
+
+const { title, description, eyebrow, trail = [] } = Astro.props;
+---
+
+<section class="bg-brand-50 border-brand-line-soft border-b">
+  <div class="mx-auto max-w-6xl px-4 py-10 lg:py-14">
+    {trail.length > 1 && <div class="mb-5"><Breadcrumbs trail={trail} /></div>}
+    {eyebrow && <p class="text-accent-500 mb-2 text-sm font-semibold uppercase tracking-widest">{eyebrow}</p>}
+    <h1 class="text-brand-900 text-3xl font-extrabold sm:text-4xl lg:text-5xl">{title}</h1>
+    {description && <p class="text-ink-700 mt-5 max-w-2xl text-lg">{description}</p>}
+    <slot />
+  </div>
+</section>

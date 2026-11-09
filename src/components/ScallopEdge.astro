@@ -1,0 +1,10 @@
+---
+interface Props {
+  /** Strip height in pixels. The tile is fixed so scallops stay circular. */
+  height?: number;
+}
+
+const { height = 24 } = Astro.props;
+---
+
+<div class="scallop-edge" style={`height:${height}px`} aria-hidden="true"></div>

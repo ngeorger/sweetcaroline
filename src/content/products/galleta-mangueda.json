@@ -1,0 +1,14 @@
+{
+  "name": "Galleta de Mantequilla",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Sabrosa masa en base a mantequilla, mangueada, horneada y untada en chocolate de cacao.",
+  "image": "products/galleta-mangueda",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/galleta-mangueda/"
+}

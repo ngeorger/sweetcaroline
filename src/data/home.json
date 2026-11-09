@@ -1,0 +1,39 @@
+{
+  "hero": [
+    {
+      "heading": "Pastelería para deleitarte",
+      "subtitle": "Pastelería fina y chocolatería",
+      "image": "hero/deleitarte"
+    },
+    {
+      "heading": "Delicias para toda ocasión",
+      "subtitle": "Productos dulces y salados para tu celebración",
+      "image": "hero/ocasion"
+    },
+    {
+      "heading": "Personaliza tu torta",
+      "subtitle": "Personajes, flores, dibujos o el diseño que quieras",
+      "image": "hero/personaliza"
+    }
+  ],
+  "highlights": [
+    {
+      "heading": "Delicias para toda ocasión",
+      "body": "Productos dulces y salados para tu celebración",
+      "href": "/productos/",
+      "cta": "Ver productos"
+    },
+    {
+      "heading": "A pedido y en stock",
+      "body": "Muchos sabores, combinaciones y lo último en tendencia",
+      "href": "/productos/categoria/tortas/",
+      "cta": "Ver tortas"
+    },
+    {
+      "heading": "Personaliza tu torta",
+      "body": "Personajes, flores, dibujos o el diseño que quieras",
+      "href": "/contacto/",
+      "cta": "Contáctanos"
+    }
+  ]
+}

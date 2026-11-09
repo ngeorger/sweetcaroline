@@ -1,0 +1,14 @@
+{
+  "name": "Galleta de Navidad",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "6 especias dan sabor a esta sabrosa galleta de masa brisée, ideal para regalar y disfrutar en navidad. Pintada a mano, una a una, con royal icing saborizada con limón natural que complementa perfectamente con el dulzor especiado.",
+  "image": "products/galleta-de-coco",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/galleta-de-coco/"
+}

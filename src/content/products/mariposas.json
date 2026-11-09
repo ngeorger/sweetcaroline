@@ -1,0 +1,13 @@
+{
+  "name": "Mariposas",
+  "sections": [
+    "productos"
+  ],
+  "categories": [
+    "tortas"
+  ],
+  "description": "Torta",
+  "image": "products/mariposas",
+  "subgroup": "personalizadas",
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tortas/tortas-personalizadas/mariposas/"
+}

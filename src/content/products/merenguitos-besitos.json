@@ -1,0 +1,14 @@
+{
+  "name": "Merenguitos",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Riquísimos besitos de merengue suizo deshidratado. Formato de venta: bolsitas de 80 gr.",
+  "image": "products/merenguitos-besitos",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/merenguitos-besitos/"
+}

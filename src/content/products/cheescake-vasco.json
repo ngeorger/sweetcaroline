@@ -1,0 +1,15 @@
+{
+  "name": "Cheescake Vasco",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "tartas",
+    "individuales"
+  ],
+  "description": "Tarta de queso horneada típica del país vasco en una nueva versión con una base de masa quebrada.",
+  "image": "products/cheescake-vasco",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tartas/cheescake-vasco/"
+}

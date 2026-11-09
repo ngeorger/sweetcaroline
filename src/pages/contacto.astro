@@ -1,0 +1,139 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import ContactStrip from '../components/ContactStrip.astro';
+import Icon from '../components/Icon.astro';
+import { SITE, HOURS, ADDRESS, telLink, mailtoLink, whatsappLink } from '../lib/site';
+
+const trail = [
+  { name: 'Inicio', path: '/' },
+  { name: 'Contacto', path: '/contacto/' },
+];
+---
+
+<BaseLayout
+  title="Contacto"
+  description={`Contáctanos por WhatsApp o teléfono al ${SITE.phone}, o por correo a ${SITE.email}. Av. Estadio 6027, San Joaquín, Santiago.`}
+  breadcrumbs={trail}
+>
+  <PageHeader
+    eyebrow="Estamos en San Joaquín"
+    title="Contacto"
+    description="Escríbenos por WhatsApp, llámanos o visítanos en la tienda. Coordinamos pedidos y tortas personalizadas."
+    trail={trail}
+  />
+
+  <section class="mx-auto max-w-6xl px-4 py-12" aria-labelledby="datos-contacto">
+    <div class="grid gap-10 lg:grid-cols-2">
+      <div>
+        <h2 id="datos-contacto" class="text-brand-900 text-2xl font-bold">Contáctenos</h2>
+
+        <dl class="mt-6 space-y-5">
+          <div>
+            <dt class="text-ink-900 text-sm font-semibold uppercase tracking-wide">WhatsApp o llamadas</dt>
+            <dd class="mt-1">
+              <a
+                href={telLink}
+                class="text-brand-700 hover:text-brand-900 inline-flex items-center gap-2 text-lg font-semibold hover:underline"
+              >
+                <Icon name="phone" size={18} />
+                <span>{SITE.phone}</span>
+              </a>
+            </dd>
+          </div>
+
+          <div>
+            <dt class="text-ink-900 text-sm font-semibold uppercase tracking-wide">Correo</dt>
+            <dd class="mt-1">
+              <a
+                href={mailtoLink}
+                class="text-brand-700 hover:text-brand-900 inline-flex items-center gap-2 text-lg font-semibold hover:underline"
+              >
+                <Icon name="mail" size={18} />
+                <span>{SITE.email}</span>
+              </a>
+            </dd>
+          </div>
+
+          <div>
+            <dt class="text-ink-900 text-sm font-semibold uppercase tracking-wide">Redes</dt>
+            <dd class="mt-1 flex flex-wrap gap-4">
+              <a
+                href={whatsappLink('Hola, quisiera hacer una consulta.')}
+                class="text-brand-700 inline-flex items-center gap-2 font-semibold hover:underline"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Icon name="whatsapp" size={18} />
+                <span>WhatsApp</span>
+              </a>
+              <a
+                href={SITE.instagram}
+                class="text-brand-700 inline-flex items-center gap-2 font-semibold hover:underline"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Icon name="instagram" size={18} />
+                <span>Instagram</span>
+              </a>
+            </dd>
+          </div>
+
+          <div>
+            <dt class="text-ink-900 text-sm font-semibold uppercase tracking-wide">
+              Tienda y taller de producción
+            </dt>
+            <dd class="text-ink-700 mt-1">
+              <address class="not-italic">
+                {ADDRESS.street}<br />
+                {ADDRESS.commune}, {ADDRESS.city}<br />
+                {ADDRESS.region}, Chile
+              </address>
+              <a
+                href={SITE.maps}
+                class="text-brand-700 mt-2 inline-flex items-center gap-1 font-semibold hover:underline"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span>Ver en Google Maps</span>
+                <Icon name="chevron-right" size={16} />
+              </a>
+            </dd>
+          </div>
+        </dl>
+
+        <h2 class="text-brand-900 mt-10 text-2xl font-bold">Horario de atención</h2>
+        <dl class="mt-4 space-y-4">
+          {
+            HOURS.map((entry) => (
+              <div class="border-brand-line-soft rounded-2xl border bg-white p-5">
+                <dt class="text-ink-900 font-bold">{entry.label}</dt>
+                <dd class="text-ink-700 mt-1">{entry.display}</dd>
+              </div>
+            ))
+          }
+        </dl>
+      </div>
+
+      <div>
+        <h2 class="text-brand-900 text-2xl font-bold">Cómo llegar</h2>
+        <div class="border-brand-line-soft mt-6 overflow-hidden rounded-2xl border">
+          <iframe
+            src={SITE.mapsEmbed}
+            title="Mapa de la ubicación de Sweet Caroline en Av. Estadio 6027, San Joaquín"
+            width="600"
+            height="450"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            class="h-[420px] w-full border-0"
+          ></iframe>
+        </div>
+        <p class="text-ink-600 mt-3 text-sm">
+          Cerca del Estadio Monumental, comuna de San Joaquín. Tenemos terraza al aire libre.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <ContactStrip />
+</BaseLayout>

@@ -1,0 +1,61 @@
+---
+import Icon from './Icon.astro';
+import { SITE, telLink, mailtoLink, whatsappLink } from '../lib/site';
+
+/**
+ * Utility bar above the main navigation.
+ *
+ * Background is brand-700 rather than the brand-500 used by the nav bar. Both
+ * colours are already in the brand; the darker one gives white 6.8:1 contrast,
+ * where 12px text on brand-500 would sit at exactly 4.5:1 with no headroom.
+ */
+const socials = [
+  { href: SITE.instagram, label: 'Instagram de Sweet Caroline', icon: 'instagram' as const, external: true },
+  { href: whatsappLink(), label: 'Escríbenos por WhatsApp', icon: 'whatsapp' as const, external: true },
+];
+---
+
+<!--
+  Wrapped in a `<section>` so the utility bar is contained by a landmark.
+  Without this, axe's `region` rule flags the contact details as page content
+  sitting outside any landmark.
+-->
+<section aria-label="Contacto rápido" class="bg-brand-700 text-white">
+  <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-6 gap-y-1 px-4 py-2 text-sm sm:justify-between">
+    <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-1">
+      <a href={telLink} class="inline-flex items-center gap-2 hover:underline">
+        <Icon name="phone" size={15} />
+        <span>{SITE.phone}</span>
+      </a>
+      <a href={mailtoLink} class="inline-flex items-center gap-2 hover:underline">
+        <Icon name="mail" size={15} />
+        <span>{SITE.email}</span>
+      </a>
+    </div>
+
+    <ul class="flex items-center gap-1">
+      {
+        socials.map((social) => (
+          <li>
+            <a
+              href={social.href}
+              class="inline-flex size-9 items-center justify-center rounded-full hover:bg-white/15"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={social.label}
+            >
+              <Icon name={social.icon} size={18} />
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+
+  <!-- Dotted rule carried over from the original header. -->
+  <div class="pb-1" aria-hidden="true">
+    <div class="mx-auto max-w-6xl px-4">
+      <div class="border-t border-dotted border-white/50"></div>
+    </div>
+  </div>
+</section>

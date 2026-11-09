@@ -13,7 +13,7 @@ found" shell, while `/wp-content/uploads/...` images are served. The live
 editable site is `old.sweetcaroline.cl` (WordPress 6.4.3 + WooCommerce).
 
 The repo `sredevopsorgagents/sweetcaroline` has Pages configured as a **project
-page** at `https://sredevopsorgagents.github.io/sweetcaroline/`
+page** at `https://sweetcaroline.cl/`
 (`build_type: workflow`, `cname: null`) — it does not claim the apex.
 
 GitHub Pages serves static files only and cannot issue HTTP 301 redirects. The
@@ -25,7 +25,7 @@ WordPress site has 62 product permalinks at deeply nested paths such as
 
 Deploy `dist/` to the repository's **project page** via `withastro/action@v6`
 and `actions/deploy-pages@v5`, injecting
-`SITE_URL=https://sredevopsorgagents.github.io/sweetcaroline`.
+`SITE_URL=https://sweetcaroline.cl`.
 
 `astro.config.mjs` derives `base` from the path component of `SITE_URL` rather
 than hardcoding it, so the asset URLs, canonicals, sitemap and `robots.txt` all

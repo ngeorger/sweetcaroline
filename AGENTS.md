@@ -157,7 +157,7 @@ network rather than quietly read production. See `scripts/wp-base.mjs`.
 
 ```bash
 npm run build                                                    # apex: base '/', https://sweetcaroline.cl
-SITE_URL=https://sredevopsorgagents.github.io/sweetcaroline npm run build   # project page: base '/sweetcaroline'
+SITE_URL=https://sweetcaroline.cl npm run build   # project page: base '/sweetcaroline'
 ```
 
 Both build the same four pages (`/`, `/nosotros/`, `/contacto/`, `404.html`) plus the
@@ -171,7 +171,7 @@ npm run check
 npm run build && npm test    # apex build: what both the unit tests and e2e expect
 # plus the Docker e2e command above when UI, routing or accessibility changed
 # then, if you touched any URL helper, re-verify the deployed shape:
-SITE_URL=https://sredevopsorgagents.github.io/sweetcaroline npm run build && npm test
+SITE_URL=https://sweetcaroline.cl npm run build && npm test
 ```
 
 The two `npm test` runs cover different bases: the deploy-integrity suite reads the

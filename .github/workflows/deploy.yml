@@ -27,7 +27,8 @@ jobs:
         # build must know its own public URL. `astro.config.mjs` derives `base`
         # from this, which is what keeps asset URLs and canonicals correct.
         env:
-          SITE_URL: https://sredevopsorgagents.github.io/sweetcaroline
+          SITE_URL: https://sweetcaroline.cl
+          ALLOW_INDEXING: 1
         with:
           node-version: 22
           package-manager: npm@latest

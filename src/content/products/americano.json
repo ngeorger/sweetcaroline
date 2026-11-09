@@ -1,0 +1,13 @@
+{
+  "name": "Espresso",
+  "sections": [
+    "cafeteria"
+  ],
+  "categories": [
+    "bebestibles"
+  ],
+  "description": "Café molido extraído por presión, intenso y profundo en una medida.",
+  "image": "products/americano",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/sin-categoria/cafeteria/bebidas/americano/"
+}

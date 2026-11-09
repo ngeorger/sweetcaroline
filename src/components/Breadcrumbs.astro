@@ -1,0 +1,40 @@
+---
+import Icon from './Icon.astro';
+import type { Breadcrumb } from '../lib/seo';
+import { withBase } from '../data/navigation';
+
+interface Props {
+  trail: Breadcrumb[];
+}
+
+const { trail } = Astro.props;
+// `Astro.url.pathname` carries the deployment base; trail paths do not.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const current = Astro.url.pathname.slice(base.length) || '/';
+---
+
+<nav aria-label="Ruta de navegación" class="text-ink-600 text-sm">
+  <ol class="flex flex-wrap items-center gap-x-2 gap-y-1">
+    {
+      trail.map((item, index) => {
+        const isLast = index === trail.length - 1;
+        // Compare normalised paths so `/productos` and `/productos/` match.
+        const isCurrent = isLast || item.path === current;
+        return (
+          <li class="flex items-center gap-2">
+            {index > 0 && <Icon name="chevron-right" size={14} class="text-brand-700" />}
+            {isCurrent ? (
+              <span aria-current="page" class="text-ink-900 font-medium">
+                {item.name}
+              </span>
+            ) : (
+              <a href={withBase(item.path)} class="hover:text-brand-700 hover:underline">
+                {item.name}
+              </a>
+            )}
+          </li>
+        );
+      })
+    }
+  </ol>
+</nav>

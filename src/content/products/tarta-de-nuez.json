@@ -1,0 +1,15 @@
+{
+  "name": "Tarta de Nuez",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "tartas",
+    "por-trozo"
+  ],
+  "description": "Tarta en masa brisèe rellena con una mezcla de huevos, miel, azúcar rubia, canela y nueces",
+  "image": "products/tarta-de-nuez",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tartas/tarta-de-nuez/"
+}

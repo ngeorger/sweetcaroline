@@ -1,0 +1,58 @@
+---
+/**
+ * Homepage: a call to action for the Instagram profile.
+ *
+ * The site keeps only `Nosotros` and `Contacto` besides this page, so the
+ * landing page is the shop window. It links out to @sweetcarolinechile rather
+ * than embedding anything: no Instagram post, no third-party iframe and no
+ * script load, which keeps the page fast, private and correct even when
+ * Instagram is blocked or down (see docs/adr/0006).
+ *
+ * The imported photographs are used for metadata only. They are local assets,
+ * so `astro:assets` can optimise them; a build with none simply omits the image.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactStrip from '../components/ContactStrip.astro';
+import Icon from '../components/Icon.astro';
+import { requireImage } from '../lib/images';
+import { SITE } from '../lib/site';
+import { INSTAGRAM, INSTAGRAM_PROFILE_URL } from '../data/instagram';
+
+const photo = INSTAGRAM.fallback[0];
+const socialImage = photo ? requireImage(photo.key) : undefined;
+---
+
+<BaseLayout
+  title="Sweet Caroline | Pastelería fina y chocolatería en San Joaquín"
+  description={SITE.description}
+  image={socialImage}
+  imageAlt={photo?.alt}
+>
+  <section class="bg-brand-50 border-brand-line-soft border-b">
+    <div class="mx-auto max-w-6xl px-4 py-12 lg:py-16">
+      <p class="text-accent-500 mb-2 text-sm font-semibold uppercase tracking-widest">
+        @{INSTAGRAM.profile}
+      </p>
+      <h1 class="text-brand-900 text-3xl font-extrabold sm:text-4xl lg:text-5xl">
+        Sweet Caroline en Instagram
+      </h1>
+      <p class="text-ink-700 mt-5 max-w-2xl text-lg">
+        Lo último de nuestra pastelería: tortas a pedido, pastelería fina, chocolatería y
+        nuestra terraza en San Joaquín.
+      </p>
+      <p class="mt-6">
+        <a
+          href={INSTAGRAM_PROFILE_URL}
+          class="bg-brand-500 hover:bg-brand-700 inline-flex items-center gap-2 rounded-full px-6 py-3 font-semibold text-white transition-colors"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Icon name="instagram" size={18} />
+          <span>Ver el perfil en Instagram</span>
+        </a>
+      </p>
+    </div>
+  </section>
+
+  <ContactStrip />
+</BaseLayout>

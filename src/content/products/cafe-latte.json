@@ -1,0 +1,13 @@
+{
+  "name": "Café Latte",
+  "sections": [
+    "cafeteria"
+  ],
+  "categories": [
+    "bebestibles"
+  ],
+  "description": "Una medida de espresso y una de leche texturizada.",
+  "image": "products/cafe-latte",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/sin-categoria/cafeteria/bebidas/cafe-latte/"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Galleta San Valentín",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Deliciosa galleta de masa quebrada, sabor vainilla, decorada con royal icing saborizado con limón natural.\n\nProducto hecho a mano uno a uno.\n\nDisponible en tienda durante la temporada y a pedido mínimo 12 unidades.",
+  "image": "products/galleta-san-valentin",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/galleta-san-valentin/"
+}

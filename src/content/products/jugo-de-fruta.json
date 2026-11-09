@@ -1,0 +1,13 @@
+{
+  "name": "Jugo de fruta",
+  "sections": [
+    "cafeteria"
+  ],
+  "categories": [
+    "bebestibles"
+  ],
+  "description": "Jugo eleaborado con trozos de fruta natural, preparado a la minuta y endulzado a gusto.",
+  "image": "products/jugo-de-fruta",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/sin-categoria/cafeteria/bebidas/jugo-de-fruta/"
+}

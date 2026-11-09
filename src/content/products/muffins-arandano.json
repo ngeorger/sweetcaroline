@@ -1,0 +1,13 @@
+{
+  "name": "Muffins arándano",
+  "sections": [
+    "productos"
+  ],
+  "categories": [
+    "tortas"
+  ],
+  "description": "Panecillo de suave dulzor, generalmente relleno con arándanos.",
+  "image": "products/muffins-arandano",
+  "subgroup": "personalizadas",
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tortas/tortas-personalizadas/muffins-arandano/"
+}

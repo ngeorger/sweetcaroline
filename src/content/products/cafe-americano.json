@@ -1,0 +1,13 @@
+{
+  "name": "Café Americano",
+  "sections": [
+    "cafeteria"
+  ],
+  "categories": [
+    "bebestibles"
+  ],
+  "description": "Una medida café espresso más una medida de agua caliente sin perder sus características aromáticas y de sabor.",
+  "image": "products/cafe-americano",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/sin-categoria/cafeteria/bebidas/cafe-americano/"
+}

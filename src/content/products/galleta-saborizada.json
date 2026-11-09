@@ -1,0 +1,14 @@
+{
+  "name": "Galleta estilo New York",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Galleta estilo New York: grande, suave por dentro y crujiente en los bordes. Disponible en pistacho, red velvet con chispas de chocolate blanco y chocolate con chispas. Textura hogareña, sabor intenso.",
+  "image": "products/galleta-saborizada",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/galleta-saborizada/"
+}

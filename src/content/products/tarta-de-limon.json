@@ -1,0 +1,15 @@
+{
+  "name": "Tarta de Limón",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "tartas",
+    "por-trozo"
+  ],
+  "description": "Tarta de masa sablée rellena con crema de limón (curd) receta tradicional, cubierta con merengue suizo, zeste de limón y hojas de menta.",
+  "image": "products/tarta-de-limon",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tartas/tarta-de-limon/"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Financier",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "individuales"
+  ],
+  "description": "Pequeño pastelito francés de forma rectangular u ovalada, elaborado con harina de almendra, claras de huevo y mantequilla dorada (beurre noisette). Su exterior es ligeramente crujiente, su interior suave y húmedo, con un delicado sabor a almendra y avellana. Elegante y sutil.\n\n3 tipos de financieros para la misma masa: cranberry, chispas de chocolate y galleta lottus con salsa de toffee",
+  "image": "products/financier",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/financier/"
+}

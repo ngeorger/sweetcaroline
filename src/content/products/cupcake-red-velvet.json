@@ -1,0 +1,15 @@
+{
+  "name": "Cupcake Red Velvet",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "individuales"
+  ],
+  "description": "Bizcochito red velvet de un intenso color rojo con con frosting de queso crema dulce y migas del bizcocho.",
+  "image": "products/cupcake-red-velvet",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/cupcake-red-velvet/"
+}

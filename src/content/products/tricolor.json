@@ -1,0 +1,15 @@
+{
+  "name": "Cupcake Dieciochero",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "individuales"
+  ],
+  "description": "Bizcochito horneado, decoradas con coberturas buttercream o ganache. Suaves, esponjosos y versátiles, combinan textura esponjosa con un acabado dulce y llamativo.",
+  "image": "products/tricolor",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/tricolor/"
+}

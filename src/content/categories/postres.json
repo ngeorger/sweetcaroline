@@ -1,0 +1,7 @@
+{
+  "name": "Postres",
+  "order": 5,
+  "image": "categories/postres",
+  "hidden": true,
+  "empty": true
+}

@@ -1,0 +1,117 @@
+---
+import type { ImageMetadata } from 'astro';
+import { Font } from 'astro:assets';
+import '../styles/global.css';
+import TopBar from '../components/TopBar.astro';
+import Header from '../components/Header.astro';
+import ScallopEdge from '../components/ScallopEdge.astro';
+import Footer from '../components/Footer.astro';
+import { SITE, addressLine } from '../lib/site';
+import { absoluteUrl, buildLocalBusiness, buildBreadcrumbs, type Breadcrumb } from '../lib/seo';
+import { withBase } from '../data/navigation';
+import { ROBOTS_CONTENT, X_ROBOTS_TAG } from '../lib/indexing';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Overrides the `<title>`; `title` is still used for og/twitter. */
+  pageTitle?: string;
+  image?: ImageMetadata;
+  imageAlt?: string;
+  breadcrumbs?: Breadcrumb[];
+  /** Extra structured data appended to the LocalBusiness graph. */
+  structuredData?: Record<string, unknown>[];
+}
+
+const {
+  title,
+  description,
+  pageTitle,
+  image,
+  imageAlt = '',
+  breadcrumbs = [],
+  structuredData = [],
+} = Astro.props;
+
+const canonical = absoluteUrl(Astro.url.pathname, Astro.site);
+const socialImage = image ? absoluteUrl(image.src, Astro.site) : undefined;
+
+const graphs: Record<string, unknown>[] = [
+  buildLocalBusiness(Astro.site),
+  ...(breadcrumbs.length > 1 ? [buildBreadcrumbs(breadcrumbs, Astro.site)] : []),
+  ...structuredData,
+];
+
+const fullTitle = pageTitle ?? `${title} | ${SITE.name}`;
+---
+
+<!doctype html>
+<html lang="es-CL">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    <!--
+      Indexing policy. The preview is public but must not be findable; see
+      src/lib/indexing.ts. Both the `robots` meta and the `X-Robots-Tag`
+      http-equiv form are emitted, because crawlers and crawler-adjacent tools
+      honour different ones and GitHub Pages cannot send real response headers.
+    -->
+    <meta name="robots" content={ROBOTS_CONTENT} />
+    <meta name="googlebot" content={ROBOTS_CONTENT} />
+    <meta http-equiv="X-Robots-Tag" content={X_ROBOTS_TAG} />
+
+    <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+    <link rel="apple-touch-icon" href={withBase('/apple-touch-icon.png')} />
+    <meta name="theme-color" content="#e6007e" />
+
+    <!-- Self-hosts Poppins and emits the preload hints for the latin subset. -->
+    <Font cssVariable="--font-poppins" preload />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:locale" content="es_CL" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {socialImage && <meta property="og:image" content={socialImage} />}
+    {socialImage && <meta property="og:image:alt" content={imageAlt} />}
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content={socialImage ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {socialImage && <meta name="twitter:image" content={socialImage} />}
+
+    <meta name="geo.placename" content={`${addressLine()}, Chile`} />
+
+    <script type="application/ld+json" set:html={JSON.stringify(graphs)} is:inline />
+
+    <slot name="head" />
+  </head>
+
+  <body class="flex min-h-dvh flex-col bg-white">
+    <a
+      href="#contenido"
+      class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-brand-700 focus:px-4 focus:py-2 focus:text-white"
+    >
+      Saltar al contenido
+    </a>
+
+    <TopBar />
+    <Header />
+    <ScallopEdge />
+
+    <main id="contenido" class="flex-1">
+      <slot />
+    </main>
+
+    <Footer />
+  </body>
+</html>

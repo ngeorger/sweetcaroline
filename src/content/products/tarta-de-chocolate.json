@@ -1,0 +1,15 @@
+{
+  "name": "Tarta de Chocolate",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "tartas",
+    "por-trozo"
+  ],
+  "description": "Masa quebrada crujiente con ganache de chocolate con leche al 35% y baño espejo de cacao. Interior suave y cremoso que contrasta con la crocancia de la galleta. Un bocado delicado y equilibrado.",
+  "image": "products/tarta-de-chocolate",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/tartas/tarta-de-chocolate/"
+}

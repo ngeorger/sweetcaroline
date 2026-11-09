@@ -1,0 +1,13 @@
+{
+  "name": "Agua",
+  "sections": [
+    "cafeteria"
+  ],
+  "categories": [
+    "bebestibles"
+  ],
+  "description": "Agua embotellada con o sin gas, 500 ml.",
+  "image": "products/agua",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/sin-categoria/cafeteria/bebidas/agua/"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Galletas D. la Madre",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites"
+  ],
+  "description": "Deliciosa galleta de masa quebrada, sabor vainilla, decorada con royal icing saborizado con limón natural.\n\nProducto hecho a mano uno a uno.\n\nDisponible en tienda durante la temporada y a pedido mínimo 12 unidades.",
+  "image": "products/galletas-decorada",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/galletas-decorada/"
+}

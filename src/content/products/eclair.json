@@ -1,0 +1,15 @@
+{
+  "name": "Eclair",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "individuales"
+  ],
+  "description": "Nuestro clásico eclair de masa choux relleno con manjar y crema de leche montada, cubierto de un baño espejo de chocolate.",
+  "image": "products/eclair",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/eclair/"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Brownie",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "por-trozo"
+  ],
+  "description": "Bizcocho de chocolate con trozos de chocolate de leche 35% cacao y nueces, decorado con hebras de salsa de chocolate.",
+  "image": "products/brownie",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/brownie/"
+}

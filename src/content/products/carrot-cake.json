@@ -1,0 +1,15 @@
+{
+  "name": "Carrot Cake",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "pasteles",
+    "por-trozo"
+  ],
+  "description": "Riquìsimo queque de zanahorias con nueces, miel, azúcar morena y canela cubierto con crema americana de queso.",
+  "image": "products/carrot-cake",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/pasteles/carrot-cake/"
+}

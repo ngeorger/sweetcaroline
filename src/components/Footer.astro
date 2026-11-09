@@ -1,0 +1,104 @@
+---
+import Icon from './Icon.astro';
+import { SITE, HOURS, ADDRESS, telLink, mailtoLink, whatsappLink, addressLine } from '../lib/site';
+
+/**
+ * Footer.
+ *
+ * Every piece of text here is full white on brand-500. The original site used
+ * #f2b8ca on #e6007e, which measures 2.68:1 and fails WCAG AA; white measures
+ * 4.51:1. `text-white/90` would composite to roughly 3.6:1 and fail as well, so
+ * headings are distinguished by weight and size instead of by colour.
+ */
+---
+
+<footer class="bg-brand-500 text-white">
+  <div class="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:grid-cols-2 lg:grid-cols-3">
+    <section aria-labelledby="footer-contacto">
+      <h2 id="footer-contacto" class="mb-4 text-lg font-bold">Contacto</h2>
+      <ul class="space-y-2">
+        <li>
+          <a href={telLink} class="inline-flex items-center gap-2 hover:underline">
+            <Icon name="phone" size={16} />
+            <span>{SITE.phone}</span>
+          </a>
+        </li>
+        <li>
+          <a href={mailtoLink} class="inline-flex items-center gap-2 hover:underline">
+            <Icon name="mail" size={16} />
+            <span>{SITE.email}</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href={whatsappLink('Hola, quisiera hacer una consulta.')}
+            class="inline-flex items-center gap-2 hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Icon name="whatsapp" size={16} />
+            <span>WhatsApp</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href={SITE.instagram}
+            class="inline-flex items-center gap-2 hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Icon name="instagram" size={16} />
+            <span>Instagram</span>
+          </a>
+        </li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="footer-horario">
+      <h2 id="footer-horario" class="mb-4 text-lg font-bold">Horario de atención</h2>
+      <dl class="space-y-3">
+        {
+          HOURS.map((entry) => (
+            <div>
+              <dt class="text-sm font-semibold uppercase tracking-wide">{entry.label}</dt>
+              <dd>{entry.display}</dd>
+            </div>
+          ))
+        }
+      </dl>
+    </section>
+
+    <section aria-labelledby="footer-ubicacion">
+      <h2 id="footer-ubicacion" class="mb-4 text-lg font-bold">Ubicación</h2>
+      <p class="flex items-start gap-2">
+        <span class="mt-0.5 shrink-0"><Icon name="map-pin" size={16} /></span>
+        <span>
+          Tienda y taller de producción<br />
+          {ADDRESS.street}<br />
+          {ADDRESS.commune}, {ADDRESS.city}
+        </span>
+      </p>
+      <p class="mt-3">
+        <a
+          href={SITE.maps}
+          class="inline-flex items-center gap-2 font-semibold hover:underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span>Ver en Google Maps</span>
+          <Icon name="chevron-right" size={16} />
+        </a>
+      </p>
+    </section>
+  </div>
+
+  <div class="border-t border-white/25">
+    <div class="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-4 py-5 text-sm sm:flex-row">
+      <p>{SITE.copyright}</p>
+      <a href="#contenido" class="inline-flex items-center gap-2 font-semibold hover:underline">
+        <Icon name="arrow-up" size={16} />
+        <span>Volver arriba</span>
+      </a>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,15 @@
+{
+  "name": "Dulces árabes",
+  "sections": [
+    "productos",
+    "cafeteria"
+  ],
+  "categories": [
+    "confites",
+    "pasteles"
+  ],
+  "description": "Tradicional dulce árabe relleno con frutos secos",
+  "image": "products/dulces-arabes",
+  "subgroup": null,
+  "sourceUrl": "https://old.sweetcaroline.cl/nuestros-productos/productos/confites/dulces-arabes/"
+}

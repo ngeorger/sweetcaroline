@@ -1,0 +1,36 @@
+{
+  "name": "sweetcaroline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Sitio web de Sweet Caroline — pastelería fina y chocolatería, San Joaquín, Santiago.",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build && node scripts/emit-redirects.mjs",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "check": "ASTRO_TELEMETRY_DISABLED=1 astro sync && tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "content:import": "node --env-file-if-exists=.env scripts/import-wordpress.mjs",
+    "content:check": "node --env-file-if-exists=.env scripts/import-wordpress.mjs --check",
+    "redirects": "node scripts/emit-redirects.mjs"
+  },
+  "dependencies": {
+    "astro": "7.3.8",
+    "sharp": "0.35.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@astrojs/sitemap": "3.7.4",
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.64.0",
+    "@tailwindcss/vite": "4.3.3",
+    "tailwindcss": "4.3.3",
+    "typescript": "6.0.3",
+    "vitest": "5.0.4"
+  }
+}

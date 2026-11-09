@@ -1,0 +1,43 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never cancel a deploy in flight; let it finish so the CDN is not left serving
+# a half-published artifact.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: withastro/action@v6
+        # The repo's Pages site is a project page at /sweetcaroline/, so the
+        # build must know its own public URL. `astro.config.mjs` derives `base`
+        # from this, which is what keeps asset URLs and canonicals correct.
+        env:
+          SITE_URL: https://sredevopsorgagents.github.io/sweetcaroline
+        with:
+          node-version: 22
+          package-manager: npm@latest
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
